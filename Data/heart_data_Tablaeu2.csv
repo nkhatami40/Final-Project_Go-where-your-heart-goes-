@@ -1,0 +1,1026 @@
+age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,heart_disease
+52,Male,typical angina,125,212,No,ST-T wave abnormality,168,No,1.0,upsloping,2,reversible defect,No
+53,Male,typical angina,140,203,Yes,normal,155,Yes,3.1,downsloping,0,reversible defect,No
+70,Male,typical angina,145,174,No,ST-T wave abnormality,125,Yes,2.6,downsloping,0,reversible defect,No
+61,Male,typical angina,148,203,No,ST-T wave abnormality,161,No,0.0,upsloping,1,reversible defect,No
+62,Female,typical angina,138,294,Yes,ST-T wave abnormality,106,No,1.9,flat,3,normal blood flow,No
+58,Female,typical angina,100,248,No,normal,122,No,1.0,flat,0,normal blood flow,Yes
+58,Male,typical angina,114,318,No,probable or definite left ventricular hypertrophy,140,No,4.4,downsloping,3,fixed defect,No
+55,Male,typical angina,160,289,No,normal,145,Yes,0.8,flat,1,reversible defect,No
+46,Male,typical angina,120,249,No,normal,144,No,0.8,upsloping,0,reversible defect,No
+54,Male,typical angina,122,286,No,normal,116,Yes,3.2,flat,2,normal blood flow,No
+71,Female,typical angina,112,149,No,ST-T wave abnormality,125,No,1.6,flat,0,normal blood flow,Yes
+43,Female,typical angina,132,341,Yes,normal,136,Yes,3.0,flat,0,reversible defect,No
+34,Female,atypical angina,118,210,No,ST-T wave abnormality,192,No,0.7,upsloping,0,normal blood flow,Yes
+51,Male,typical angina,140,298,No,ST-T wave abnormality,122,Yes,4.2,flat,3,reversible defect,No
+52,Male,typical angina,128,204,Yes,ST-T wave abnormality,156,Yes,1.0,flat,0,null,No
+34,Female,atypical angina,118,210,No,ST-T wave abnormality,192,No,0.7,upsloping,0,normal blood flow,Yes
+51,Female,non-anginal pain,140,308,No,normal,142,No,1.5,upsloping,1,normal blood flow,Yes
+54,Male,typical angina,124,266,No,normal,109,Yes,2.2,flat,1,reversible defect,No
+50,Female,atypical angina,120,244,No,ST-T wave abnormality,162,No,1.1,upsloping,0,normal blood flow,Yes
+58,Male,non-anginal pain,140,211,Yes,normal,165,No,0.0,upsloping,0,normal blood flow,Yes
+60,Male,non-anginal pain,140,185,No,normal,155,No,3.0,flat,0,normal blood flow,No
+67,Female,typical angina,106,223,No,ST-T wave abnormality,142,No,0.3,upsloping,2,normal blood flow,Yes
+45,Male,typical angina,104,208,No,normal,148,Yes,3.0,flat,0,normal blood flow,Yes
+63,Female,non-anginal pain,135,252,No,normal,172,No,0.0,upsloping,0,normal blood flow,Yes
+42,Female,non-anginal pain,120,209,No,ST-T wave abnormality,173,No,0.0,flat,0,normal blood flow,Yes
+61,Female,typical angina,145,307,No,normal,146,Yes,1.0,flat,0,reversible defect,No
+44,Male,non-anginal pain,130,233,No,ST-T wave abnormality,179,Yes,0.4,upsloping,0,normal blood flow,Yes
+58,Female,atypical angina,136,319,Yes,normal,152,No,0.0,upsloping,2,normal blood flow,No
+56,Male,non-anginal pain,130,256,Yes,normal,142,Yes,0.6,flat,1,fixed defect,No
+55,Female,typical angina,180,327,No,probable or definite left ventricular hypertrophy,117,Yes,3.4,flat,0,normal blood flow,No
+44,Male,typical angina,120,169,No,ST-T wave abnormality,144,Yes,2.8,downsloping,0,fixed defect,No
+50,Female,atypical angina,120,244,No,ST-T wave abnormality,162,No,1.1,upsloping,0,normal blood flow,Yes
+57,Male,typical angina,130,131,No,ST-T wave abnormality,115,Yes,1.2,flat,1,reversible defect,No
+70,Male,non-anginal pain,160,269,No,ST-T wave abnormality,112,Yes,2.9,flat,1,reversible defect,No
+50,Male,non-anginal pain,129,196,No,ST-T wave abnormality,163,No,0.0,upsloping,0,normal blood flow,Yes
+46,Male,non-anginal pain,150,231,No,ST-T wave abnormality,147,No,3.6,flat,0,normal blood flow,No
+51,Male,asymptomic,125,213,No,normal,125,Yes,1.4,upsloping,1,normal blood flow,Yes
+59,Male,typical angina,138,271,No,normal,182,No,0.0,upsloping,0,normal blood flow,Yes
+64,Male,typical angina,128,263,No,ST-T wave abnormality,105,Yes,0.2,flat,1,reversible defect,Yes
+57,Male,non-anginal pain,128,229,No,normal,150,No,0.4,flat,1,reversible defect,No
+65,Female,non-anginal pain,160,360,No,normal,151,No,0.8,upsloping,0,normal blood flow,Yes
+54,Male,non-anginal pain,120,258,No,normal,147,No,0.4,flat,0,reversible defect,Yes
+61,Female,typical angina,130,330,No,normal,169,No,0.0,upsloping,0,normal blood flow,No
+46,Male,typical angina,120,249,No,normal,144,No,0.8,upsloping,0,reversible defect,No
+55,Female,atypical angina,132,342,No,ST-T wave abnormality,166,No,1.2,upsloping,0,normal blood flow,Yes
+42,Male,typical angina,140,226,No,ST-T wave abnormality,178,No,0.0,upsloping,0,normal blood flow,Yes
+41,Male,atypical angina,135,203,No,ST-T wave abnormality,132,No,0.0,flat,0,fixed defect,Yes
+66,Female,typical angina,178,228,Yes,ST-T wave abnormality,165,Yes,1.0,flat,2,reversible defect,No
+66,Female,non-anginal pain,146,278,No,normal,152,No,0.0,flat,1,normal blood flow,Yes
+60,Male,typical angina,117,230,Yes,ST-T wave abnormality,160,Yes,1.4,upsloping,2,reversible defect,No
+58,Female,asymptomic,150,283,Yes,normal,162,No,1.0,upsloping,0,normal blood flow,Yes
+57,Female,typical angina,140,241,No,ST-T wave abnormality,123,Yes,0.2,flat,0,reversible defect,No
+38,Male,non-anginal pain,138,175,No,ST-T wave abnormality,173,No,0.0,upsloping,4,normal blood flow,Yes
+49,Male,non-anginal pain,120,188,No,ST-T wave abnormality,139,No,2.0,flat,3,reversible defect,No
+55,Male,typical angina,140,217,No,ST-T wave abnormality,111,Yes,5.6,downsloping,0,reversible defect,No
+55,Male,typical angina,140,217,No,ST-T wave abnormality,111,Yes,5.6,downsloping,0,reversible defect,No
+56,Male,asymptomic,120,193,No,normal,162,No,1.9,flat,0,reversible defect,Yes
+48,Male,atypical angina,130,245,No,normal,180,No,0.2,flat,0,normal blood flow,Yes
+67,Male,non-anginal pain,152,212,No,normal,150,No,0.8,flat,0,reversible defect,No
+57,Male,atypical angina,154,232,No,normal,164,No,0.0,upsloping,1,normal blood flow,No
+29,Male,atypical angina,130,204,No,normal,202,No,0.0,upsloping,0,normal blood flow,Yes
+66,Female,non-anginal pain,146,278,No,normal,152,No,0.0,flat,1,normal blood flow,Yes
+67,Male,typical angina,100,299,No,normal,125,Yes,0.9,flat,2,normal blood flow,No
+59,Male,non-anginal pain,150,212,Yes,ST-T wave abnormality,157,No,1.6,upsloping,0,normal blood flow,Yes
+29,Male,atypical angina,130,204,No,normal,202,No,0.0,upsloping,0,normal blood flow,Yes
+59,Male,asymptomic,170,288,No,normal,159,No,0.2,flat,0,reversible defect,No
+53,Male,non-anginal pain,130,197,Yes,normal,152,No,1.2,downsloping,0,normal blood flow,Yes
+42,Male,typical angina,136,315,No,ST-T wave abnormality,125,Yes,1.8,flat,0,fixed defect,No
+37,Female,non-anginal pain,120,215,No,ST-T wave abnormality,170,No,0.0,upsloping,0,normal blood flow,Yes
+62,Female,typical angina,160,164,No,normal,145,No,6.2,downsloping,3,reversible defect,No
+59,Male,typical angina,170,326,No,normal,140,Yes,3.4,downsloping,0,reversible defect,No
+61,Male,typical angina,140,207,No,normal,138,Yes,1.9,upsloping,1,reversible defect,No
+56,Male,typical angina,125,249,Yes,normal,144,Yes,1.2,flat,1,normal blood flow,No
+59,Male,typical angina,140,177,No,ST-T wave abnormality,162,Yes,0.0,upsloping,1,reversible defect,No
+48,Male,typical angina,130,256,Yes,normal,150,Yes,0.0,upsloping,2,reversible defect,No
+47,Male,non-anginal pain,138,257,No,normal,156,No,0.0,upsloping,0,normal blood flow,Yes
+48,Male,non-anginal pain,124,255,Yes,ST-T wave abnormality,175,No,0.0,upsloping,2,normal blood flow,Yes
+63,Male,typical angina,140,187,No,normal,144,Yes,4.0,upsloping,2,reversible defect,No
+52,Male,atypical angina,134,201,No,ST-T wave abnormality,158,No,0.8,upsloping,1,normal blood flow,Yes
+52,Male,atypical angina,134,201,No,ST-T wave abnormality,158,No,0.8,upsloping,1,normal blood flow,Yes
+50,Male,non-anginal pain,140,233,No,ST-T wave abnormality,163,No,0.6,flat,1,reversible defect,No
+49,Male,non-anginal pain,118,149,No,normal,126,No,0.8,upsloping,3,normal blood flow,No
+46,Male,non-anginal pain,150,231,No,ST-T wave abnormality,147,No,3.6,flat,0,normal blood flow,No
+38,Male,non-anginal pain,138,175,No,ST-T wave abnormality,173,No,0.0,upsloping,4,normal blood flow,Yes
+37,Female,non-anginal pain,120,215,No,ST-T wave abnormality,170,No,0.0,upsloping,0,normal blood flow,Yes
+44,Male,atypical angina,120,220,No,ST-T wave abnormality,170,No,0.0,upsloping,0,normal blood flow,Yes
+58,Male,non-anginal pain,140,211,Yes,normal,165,No,0.0,upsloping,0,normal blood flow,Yes
+59,Female,typical angina,174,249,No,ST-T wave abnormality,143,Yes,0.0,flat,0,normal blood flow,No
+62,Female,typical angina,140,268,No,normal,160,No,3.6,downsloping,2,normal blood flow,No
+68,Male,typical angina,144,193,Yes,ST-T wave abnormality,141,No,3.4,flat,2,reversible defect,No
+54,Female,non-anginal pain,108,267,No,normal,167,No,0.0,upsloping,0,normal blood flow,Yes
+62,Female,typical angina,124,209,No,ST-T wave abnormality,163,No,0.0,upsloping,0,normal blood flow,Yes
+63,Male,typical angina,140,187,No,normal,144,Yes,4.0,upsloping,2,reversible defect,No
+44,Male,typical angina,120,169,No,ST-T wave abnormality,144,Yes,2.8,downsloping,0,fixed defect,No
+62,Male,atypical angina,128,208,Yes,normal,140,No,0.0,upsloping,0,normal blood flow,Yes
+45,Female,typical angina,138,236,No,normal,152,Yes,0.2,flat,0,normal blood flow,Yes
+57,Female,typical angina,128,303,No,normal,159,No,0.0,upsloping,1,normal blood flow,Yes
+53,Male,typical angina,123,282,No,ST-T wave abnormality,95,Yes,2.0,flat,2,reversible defect,No
+65,Male,typical angina,110,248,No,normal,158,No,0.6,upsloping,2,fixed defect,No
+76,Female,non-anginal pain,140,197,No,probable or definite left ventricular hypertrophy,116,No,1.1,flat,0,normal blood flow,Yes
+43,Female,non-anginal pain,122,213,No,ST-T wave abnormality,165,No,0.2,flat,0,normal blood flow,Yes
+57,Male,non-anginal pain,150,126,Yes,ST-T wave abnormality,173,No,0.2,upsloping,1,reversible defect,Yes
+54,Male,atypical angina,108,309,No,ST-T wave abnormality,156,No,0.0,upsloping,0,reversible defect,Yes
+47,Male,non-anginal pain,138,257,No,normal,156,No,0.0,upsloping,0,normal blood flow,Yes
+52,Male,asymptomic,118,186,No,normal,190,No,0.0,flat,0,fixed defect,Yes
+47,Male,typical angina,110,275,No,normal,118,Yes,1.0,flat,1,normal blood flow,No
+51,Male,typical angina,140,299,No,ST-T wave abnormality,173,Yes,1.6,upsloping,0,reversible defect,No
+62,Male,atypical angina,120,281,No,normal,103,No,1.4,flat,1,reversible defect,No
+40,Male,typical angina,152,223,No,ST-T wave abnormality,181,No,0.0,upsloping,0,reversible defect,No
+54,Male,typical angina,110,206,No,normal,108,Yes,0.0,flat,1,normal blood flow,No
+44,Male,typical angina,110,197,No,normal,177,No,0.0,upsloping,1,normal blood flow,No
+53,Male,typical angina,142,226,No,normal,111,Yes,0.0,upsloping,0,reversible defect,Yes
+48,Male,typical angina,130,256,Yes,normal,150,Yes,0.0,upsloping,2,reversible defect,No
+57,Male,typical angina,110,335,No,ST-T wave abnormality,143,Yes,3.0,flat,1,reversible defect,No
+59,Male,non-anginal pain,126,218,Yes,ST-T wave abnormality,134,No,2.2,flat,1,fixed defect,No
+61,Female,typical angina,145,307,No,normal,146,Yes,1.0,flat,0,reversible defect,No
+63,Male,typical angina,130,254,No,normal,147,No,1.4,flat,1,reversible defect,No
+43,Male,typical angina,120,177,No,normal,120,Yes,2.5,flat,0,reversible defect,No
+29,Male,atypical angina,130,204,No,normal,202,No,0.0,upsloping,0,normal blood flow,Yes
+42,Male,atypical angina,120,295,No,ST-T wave abnormality,162,No,0.0,upsloping,0,normal blood flow,Yes
+54,Male,atypical angina,108,309,No,ST-T wave abnormality,156,No,0.0,upsloping,0,reversible defect,Yes
+44,Male,typical angina,120,169,No,ST-T wave abnormality,144,Yes,2.8,downsloping,0,fixed defect,No
+60,Male,typical angina,145,282,No,normal,142,Yes,2.8,flat,2,reversible defect,No
+65,Female,non-anginal pain,140,417,Yes,normal,157,No,0.8,upsloping,1,normal blood flow,Yes
+61,Male,typical angina,120,260,No,ST-T wave abnormality,140,Yes,3.6,flat,1,reversible defect,No
+60,Female,asymptomic,150,240,No,ST-T wave abnormality,171,No,0.9,upsloping,0,normal blood flow,Yes
+66,Male,typical angina,120,302,No,normal,151,No,0.4,flat,0,normal blood flow,Yes
+53,Male,non-anginal pain,130,197,Yes,normal,152,No,1.2,downsloping,0,normal blood flow,Yes
+52,Male,non-anginal pain,138,223,No,ST-T wave abnormality,169,No,0.0,upsloping,4,normal blood flow,Yes
+57,Male,typical angina,140,192,No,ST-T wave abnormality,148,No,0.4,flat,0,fixed defect,Yes
+60,Female,asymptomic,150,240,No,ST-T wave abnormality,171,No,0.9,upsloping,0,normal blood flow,Yes
+51,Female,non-anginal pain,130,256,No,normal,149,No,0.5,upsloping,0,normal blood flow,Yes
+41,Male,atypical angina,135,203,No,ST-T wave abnormality,132,No,0.0,flat,0,fixed defect,Yes
+50,Male,non-anginal pain,129,196,No,ST-T wave abnormality,163,No,0.0,upsloping,0,normal blood flow,Yes
+54,Male,atypical angina,108,309,No,ST-T wave abnormality,156,No,0.0,upsloping,0,reversible defect,Yes
+58,Female,typical angina,170,225,Yes,normal,146,Yes,2.8,flat,2,fixed defect,No
+55,Female,atypical angina,132,342,No,ST-T wave abnormality,166,No,1.2,upsloping,0,normal blood flow,Yes
+64,Female,typical angina,180,325,No,ST-T wave abnormality,154,Yes,0.0,upsloping,0,normal blood flow,Yes
+47,Male,non-anginal pain,138,257,No,normal,156,No,0.0,upsloping,0,normal blood flow,Yes
+41,Male,atypical angina,110,235,No,ST-T wave abnormality,153,No,0.0,upsloping,0,normal blood flow,Yes
+57,Male,typical angina,152,274,No,ST-T wave abnormality,88,Yes,1.2,flat,1,reversible defect,No
+63,Female,typical angina,124,197,No,ST-T wave abnormality,136,Yes,0.0,flat,0,normal blood flow,No
+61,Male,asymptomic,134,234,No,ST-T wave abnormality,145,No,2.6,flat,2,normal blood flow,No
+34,Male,asymptomic,118,182,No,normal,174,No,0.0,upsloping,0,normal blood flow,Yes
+47,Male,typical angina,112,204,No,ST-T wave abnormality,143,No,0.1,upsloping,0,normal blood flow,Yes
+40,Male,typical angina,110,167,No,normal,114,Yes,2.0,flat,0,reversible defect,No
+51,Female,non-anginal pain,120,295,No,normal,157,No,0.6,upsloping,0,normal blood flow,Yes
+41,Male,typical angina,110,172,No,normal,158,No,0.0,upsloping,0,reversible defect,No
+52,Male,asymptomic,152,298,Yes,ST-T wave abnormality,178,No,1.2,flat,0,reversible defect,Yes
+39,Male,non-anginal pain,140,321,No,normal,182,No,0.0,upsloping,0,normal blood flow,Yes
+58,Male,typical angina,114,318,No,probable or definite left ventricular hypertrophy,140,No,4.4,downsloping,3,fixed defect,No
+54,Male,atypical angina,192,283,No,normal,195,No,0.0,upsloping,1,reversible defect,No
+58,Male,typical angina,125,300,No,normal,171,No,0.0,upsloping,2,reversible defect,No
+54,Male,non-anginal pain,120,258,No,normal,147,No,0.4,flat,0,reversible defect,Yes
+63,Male,typical angina,130,330,Yes,normal,132,Yes,1.8,upsloping,3,reversible defect,No
+54,Male,atypical angina,108,309,No,ST-T wave abnormality,156,No,0.0,upsloping,0,reversible defect,Yes
+40,Male,asymptomic,140,199,No,ST-T wave abnormality,178,Yes,1.4,upsloping,0,reversible defect,Yes
+54,Male,non-anginal pain,120,258,No,normal,147,No,0.4,flat,0,reversible defect,Yes
+67,Female,non-anginal pain,115,564,No,normal,160,No,1.6,flat,0,reversible defect,Yes
+41,Male,atypical angina,120,157,No,ST-T wave abnormality,182,No,0.0,upsloping,0,normal blood flow,Yes
+77,Male,typical angina,125,304,No,normal,162,Yes,0.0,upsloping,3,normal blood flow,No
+51,Male,non-anginal pain,100,222,No,ST-T wave abnormality,143,Yes,1.2,flat,0,normal blood flow,Yes
+77,Male,typical angina,125,304,No,normal,162,Yes,0.0,upsloping,3,normal blood flow,No
+48,Male,typical angina,124,274,No,normal,166,No,0.5,flat,0,reversible defect,No
+56,Male,typical angina,125,249,Yes,normal,144,Yes,1.2,flat,1,normal blood flow,No
+59,Male,typical angina,170,326,No,normal,140,Yes,3.4,downsloping,0,reversible defect,No
+56,Male,typical angina,132,184,No,normal,105,Yes,2.1,flat,1,fixed defect,No
+57,Female,typical angina,120,354,No,ST-T wave abnormality,163,Yes,0.6,upsloping,0,normal blood flow,Yes
+43,Male,non-anginal pain,130,315,No,ST-T wave abnormality,162,No,1.9,upsloping,1,normal blood flow,Yes
+45,Female,atypical angina,112,160,No,ST-T wave abnormality,138,No,0.0,flat,0,normal blood flow,Yes
+43,Male,typical angina,150,247,No,ST-T wave abnormality,171,No,1.5,upsloping,0,normal blood flow,Yes
+56,Male,typical angina,130,283,Yes,normal,103,Yes,1.6,downsloping,0,reversible defect,No
+56,Male,atypical angina,120,240,No,ST-T wave abnormality,169,No,0.0,downsloping,0,normal blood flow,Yes
+39,Female,non-anginal pain,94,199,No,ST-T wave abnormality,179,No,0.0,upsloping,0,normal blood flow,Yes
+54,Male,typical angina,110,239,No,ST-T wave abnormality,126,Yes,2.8,flat,1,reversible defect,No
+56,Female,typical angina,200,288,Yes,normal,133,Yes,4.0,downsloping,2,reversible defect,No
+56,Male,typical angina,130,283,Yes,normal,103,Yes,1.6,downsloping,0,reversible defect,No
+64,Male,typical angina,120,246,No,normal,96,Yes,2.2,downsloping,1,normal blood flow,No
+44,Male,typical angina,110,197,No,normal,177,No,0.0,upsloping,1,normal blood flow,No
+56,Female,typical angina,134,409,No,normal,150,Yes,1.9,flat,2,reversible defect,No
+63,Male,typical angina,140,187,No,normal,144,Yes,4.0,upsloping,2,reversible defect,No
+64,Male,asymptomic,110,211,No,normal,144,Yes,1.8,flat,0,normal blood flow,Yes
+60,Male,typical angina,140,293,No,normal,170,No,1.2,flat,2,reversible defect,No
+42,Male,non-anginal pain,130,180,No,ST-T wave abnormality,150,No,0.0,upsloping,0,normal blood flow,Yes
+45,Male,atypical angina,128,308,No,normal,170,No,0.0,upsloping,0,normal blood flow,Yes
+57,Male,typical angina,165,289,Yes,normal,124,No,1.0,flat,3,reversible defect,No
+40,Male,typical angina,110,167,No,normal,114,Yes,2.0,flat,0,reversible defect,No
+56,Male,typical angina,125,249,Yes,normal,144,Yes,1.2,flat,1,normal blood flow,No
+63,Male,typical angina,130,254,No,normal,147,No,1.4,flat,1,reversible defect,No
+64,Male,non-anginal pain,125,309,No,ST-T wave abnormality,131,Yes,1.8,flat,0,reversible defect,No
+41,Male,non-anginal pain,112,250,No,ST-T wave abnormality,179,No,0.0,upsloping,0,normal blood flow,Yes
+56,Male,atypical angina,130,221,No,normal,163,No,0.0,upsloping,0,reversible defect,Yes
+67,Female,non-anginal pain,115,564,No,normal,160,No,1.6,flat,0,reversible defect,Yes
+69,Male,asymptomic,160,234,Yes,normal,131,No,0.1,flat,1,normal blood flow,Yes
+67,Male,typical angina,160,286,No,normal,108,Yes,1.5,flat,3,normal blood flow,No
+59,Male,non-anginal pain,150,212,Yes,ST-T wave abnormality,157,No,1.6,upsloping,0,normal blood flow,Yes
+58,Male,typical angina,100,234,No,ST-T wave abnormality,156,No,0.1,upsloping,1,reversible defect,No
+45,Male,typical angina,115,260,No,normal,185,No,0.0,upsloping,0,normal blood flow,Yes
+60,Female,non-anginal pain,102,318,No,ST-T wave abnormality,160,No,0.0,upsloping,1,normal blood flow,Yes
+50,Male,typical angina,144,200,No,normal,126,Yes,0.9,flat,0,reversible defect,No
+62,Female,typical angina,124,209,No,ST-T wave abnormality,163,No,0.0,upsloping,0,normal blood flow,Yes
+34,Male,asymptomic,118,182,No,normal,174,No,0.0,upsloping,0,normal blood flow,Yes
+52,Male,asymptomic,152,298,Yes,ST-T wave abnormality,178,No,1.2,flat,0,reversible defect,Yes
+64,Male,asymptomic,170,227,No,normal,155,No,0.6,flat,0,reversible defect,Yes
+66,Female,non-anginal pain,146,278,No,normal,152,No,0.0,flat,1,normal blood flow,Yes
+42,Male,asymptomic,148,244,No,normal,178,No,0.8,upsloping,2,normal blood flow,Yes
+59,Male,non-anginal pain,126,218,Yes,ST-T wave abnormality,134,No,2.2,flat,1,fixed defect,No
+41,Male,non-anginal pain,112,250,No,ST-T wave abnormality,179,No,0.0,upsloping,0,normal blood flow,Yes
+38,Male,non-anginal pain,138,175,No,ST-T wave abnormality,173,No,0.0,upsloping,4,normal blood flow,Yes
+62,Male,atypical angina,120,281,No,normal,103,No,1.4,flat,1,reversible defect,No
+42,Male,non-anginal pain,120,240,Yes,ST-T wave abnormality,194,No,0.8,downsloping,0,reversible defect,Yes
+67,Male,typical angina,100,299,No,normal,125,Yes,0.9,flat,2,normal blood flow,No
+50,Male,typical angina,150,243,No,normal,128,No,2.6,flat,0,reversible defect,No
+43,Male,non-anginal pain,130,315,No,ST-T wave abnormality,162,No,1.9,upsloping,1,normal blood flow,Yes
+45,Male,atypical angina,128,308,No,normal,170,No,0.0,upsloping,0,normal blood flow,Yes
+49,Male,atypical angina,130,266,No,ST-T wave abnormality,171,No,0.6,upsloping,0,normal blood flow,Yes
+65,Male,typical angina,135,254,No,normal,127,No,2.8,flat,1,reversible defect,No
+41,Male,atypical angina,120,157,No,ST-T wave abnormality,182,No,0.0,upsloping,0,normal blood flow,Yes
+46,Male,typical angina,140,311,No,ST-T wave abnormality,120,Yes,1.8,flat,2,reversible defect,No
+54,Male,typical angina,122,286,No,normal,116,Yes,3.2,flat,2,normal blood flow,No
+57,Female,atypical angina,130,236,No,normal,174,No,0.0,flat,1,normal blood flow,No
+63,Male,typical angina,130,254,No,normal,147,No,1.4,flat,1,reversible defect,No
+64,Male,asymptomic,110,211,No,normal,144,Yes,1.8,flat,0,normal blood flow,Yes
+39,Female,non-anginal pain,94,199,No,ST-T wave abnormality,179,No,0.0,upsloping,0,normal blood flow,Yes
+51,Male,typical angina,140,261,No,normal,186,Yes,0.0,upsloping,0,normal blood flow,Yes
+54,Male,non-anginal pain,150,232,No,normal,165,No,1.6,upsloping,0,reversible defect,Yes
+49,Male,non-anginal pain,118,149,No,normal,126,No,0.8,upsloping,3,normal blood flow,No
+44,Female,non-anginal pain,118,242,No,ST-T wave abnormality,149,No,0.3,flat,1,normal blood flow,Yes
+52,Male,atypical angina,128,205,Yes,ST-T wave abnormality,184,No,0.0,upsloping,0,normal blood flow,Yes
+66,Female,typical angina,178,228,Yes,ST-T wave abnormality,165,Yes,1.0,flat,2,reversible defect,No
+58,Male,typical angina,125,300,No,normal,171,No,0.0,upsloping,2,reversible defect,No
+56,Male,atypical angina,120,236,No,ST-T wave abnormality,178,No,0.8,upsloping,0,normal blood flow,Yes
+60,Male,typical angina,125,258,No,normal,141,Yes,2.8,flat,1,reversible defect,No
+41,Female,atypical angina,126,306,No,ST-T wave abnormality,163,No,0.0,upsloping,0,normal blood flow,Yes
+49,Female,typical angina,130,269,No,ST-T wave abnormality,163,No,0.0,upsloping,0,normal blood flow,Yes
+64,Male,asymptomic,170,227,No,normal,155,No,0.6,flat,0,reversible defect,Yes
+49,Male,non-anginal pain,118,149,No,normal,126,No,0.8,upsloping,3,normal blood flow,No
+57,Male,atypical angina,124,261,No,ST-T wave abnormality,141,No,0.3,upsloping,0,reversible defect,No
+60,Male,typical angina,117,230,Yes,ST-T wave abnormality,160,Yes,1.4,upsloping,2,reversible defect,No
+62,Female,typical angina,150,244,No,ST-T wave abnormality,154,Yes,1.4,flat,0,normal blood flow,No
+54,Female,atypical angina,132,288,Yes,normal,159,Yes,0.0,upsloping,1,normal blood flow,Yes
+67,Male,non-anginal pain,152,212,No,normal,150,No,0.8,flat,0,reversible defect,No
+38,Male,non-anginal pain,138,175,No,ST-T wave abnormality,173,No,0.0,upsloping,4,normal blood flow,Yes
+60,Male,non-anginal pain,140,185,No,normal,155,No,3.0,flat,0,normal blood flow,No
+51,Male,non-anginal pain,125,245,Yes,normal,166,No,2.4,flat,0,normal blood flow,Yes
+44,Male,atypical angina,130,219,No,normal,188,No,0.0,upsloping,0,normal blood flow,Yes
+54,Male,atypical angina,192,283,No,normal,195,No,0.0,upsloping,1,reversible defect,No
+46,Male,typical angina,140,311,No,ST-T wave abnormality,120,Yes,1.8,flat,2,reversible defect,No
+39,Female,non-anginal pain,138,220,No,ST-T wave abnormality,152,No,0.0,flat,0,normal blood flow,Yes
+42,Male,non-anginal pain,130,180,No,ST-T wave abnormality,150,No,0.0,upsloping,0,normal blood flow,Yes
+47,Male,typical angina,110,275,No,normal,118,Yes,1.0,flat,1,normal blood flow,No
+45,Female,atypical angina,112,160,No,ST-T wave abnormality,138,No,0.0,flat,0,normal blood flow,Yes
+55,Male,typical angina,132,353,No,ST-T wave abnormality,132,Yes,1.2,flat,1,reversible defect,No
+57,Male,typical angina,165,289,Yes,normal,124,No,1.0,flat,3,reversible defect,No
+35,Male,typical angina,120,198,No,ST-T wave abnormality,130,Yes,1.6,flat,0,reversible defect,No
+62,Female,typical angina,140,394,No,normal,157,No,1.2,flat,0,normal blood flow,Yes
+35,Female,typical angina,138,183,No,ST-T wave abnormality,182,No,1.4,upsloping,0,normal blood flow,Yes
+64,Female,typical angina,180,325,No,ST-T wave abnormality,154,Yes,0.0,upsloping,0,normal blood flow,Yes
+38,Male,asymptomic,120,231,No,ST-T wave abnormality,182,Yes,3.8,flat,0,reversible defect,No
+66,Male,typical angina,120,302,No,normal,151,No,0.4,flat,0,normal blood flow,Yes
+44,Male,non-anginal pain,120,226,No,ST-T wave abnormality,169,No,0.0,upsloping,0,normal blood flow,Yes
+54,Male,non-anginal pain,150,232,No,normal,165,No,1.6,upsloping,0,reversible defect,Yes
+48,Male,typical angina,122,222,No,normal,186,No,0.0,upsloping,0,normal blood flow,Yes
+55,Female,atypical angina,132,342,No,ST-T wave abnormality,166,No,1.2,upsloping,0,normal blood flow,Yes
+58,Female,typical angina,170,225,Yes,normal,146,Yes,2.8,flat,2,fixed defect,No
+45,Male,typical angina,104,208,No,normal,148,Yes,3.0,flat,0,normal blood flow,Yes
+53,Male,typical angina,123,282,No,ST-T wave abnormality,95,Yes,2.0,flat,2,reversible defect,No
+67,Male,typical angina,120,237,No,ST-T wave abnormality,71,No,1.0,flat,0,normal blood flow,No
+58,Male,non-anginal pain,132,224,No,normal,173,No,3.2,upsloping,2,reversible defect,No
+71,Female,non-anginal pain,110,265,Yes,normal,130,No,0.0,upsloping,1,normal blood flow,Yes
+43,Male,typical angina,110,211,No,ST-T wave abnormality,161,No,0.0,upsloping,0,reversible defect,Yes
+44,Male,atypical angina,120,263,No,ST-T wave abnormality,173,No,0.0,upsloping,0,reversible defect,Yes
+39,Female,non-anginal pain,138,220,No,ST-T wave abnormality,152,No,0.0,flat,0,normal blood flow,Yes
+54,Male,typical angina,110,206,No,normal,108,Yes,0.0,flat,1,normal blood flow,No
+66,Male,typical angina,160,228,No,normal,138,No,2.3,upsloping,0,fixed defect,Yes
+56,Male,typical angina,130,283,Yes,normal,103,Yes,1.6,downsloping,0,reversible defect,No
+57,Male,typical angina,132,207,No,ST-T wave abnormality,168,Yes,0.0,upsloping,0,reversible defect,Yes
+44,Male,atypical angina,130,219,No,normal,188,No,0.0,upsloping,0,normal blood flow,Yes
+55,Male,typical angina,160,289,No,normal,145,Yes,0.8,flat,1,reversible defect,No
+41,Female,atypical angina,105,198,No,ST-T wave abnormality,168,No,0.0,upsloping,1,normal blood flow,Yes
+45,Female,atypical angina,130,234,No,normal,175,No,0.6,flat,0,normal blood flow,Yes
+35,Male,atypical angina,122,192,No,ST-T wave abnormality,174,No,0.0,upsloping,0,normal blood flow,Yes
+41,Female,atypical angina,130,204,No,normal,172,No,1.4,upsloping,0,normal blood flow,Yes
+64,Male,asymptomic,110,211,No,normal,144,Yes,1.8,flat,0,normal blood flow,Yes
+58,Male,non-anginal pain,132,224,No,normal,173,No,3.2,upsloping,2,reversible defect,No
+71,Female,non-anginal pain,110,265,Yes,normal,130,No,0.0,upsloping,1,normal blood flow,Yes
+64,Female,non-anginal pain,140,313,No,ST-T wave abnormality,133,No,0.2,upsloping,0,reversible defect,Yes
+71,Female,atypical angina,160,302,No,ST-T wave abnormality,162,No,0.4,upsloping,2,normal blood flow,Yes
+58,Female,non-anginal pain,120,340,No,ST-T wave abnormality,172,No,0.0,upsloping,0,normal blood flow,Yes
+40,Male,typical angina,152,223,No,ST-T wave abnormality,181,No,0.0,upsloping,0,reversible defect,No
+52,Male,non-anginal pain,138,223,No,ST-T wave abnormality,169,No,0.0,upsloping,4,normal blood flow,Yes
+58,Male,typical angina,128,259,No,normal,130,Yes,3.0,flat,2,reversible defect,No
+61,Male,non-anginal pain,150,243,Yes,ST-T wave abnormality,137,Yes,1.0,flat,0,normal blood flow,Yes
+59,Male,non-anginal pain,150,212,Yes,ST-T wave abnormality,157,No,1.6,upsloping,0,normal blood flow,Yes
+56,Female,typical angina,200,288,Yes,normal,133,Yes,4.0,downsloping,2,reversible defect,No
+67,Male,typical angina,100,299,No,normal,125,Yes,0.9,flat,2,normal blood flow,No
+67,Male,typical angina,120,237,No,ST-T wave abnormality,71,No,1.0,flat,0,normal blood flow,No
+58,Male,typical angina,150,270,No,normal,111,Yes,0.8,upsloping,0,reversible defect,No
+35,Male,atypical angina,122,192,No,ST-T wave abnormality,174,No,0.0,upsloping,0,normal blood flow,Yes
+52,Male,atypical angina,120,325,No,ST-T wave abnormality,172,No,0.2,upsloping,0,normal blood flow,Yes
+46,Female,atypical angina,105,204,No,ST-T wave abnormality,172,No,0.0,upsloping,0,normal blood flow,Yes
+51,Male,non-anginal pain,94,227,No,ST-T wave abnormality,154,Yes,0.0,upsloping,1,reversible defect,Yes
+55,Female,atypical angina,132,342,No,ST-T wave abnormality,166,No,1.2,upsloping,0,normal blood flow,Yes
+60,Male,typical angina,145,282,No,normal,142,Yes,2.8,flat,2,reversible defect,No
+52,Female,non-anginal pain,136,196,No,normal,169,No,0.1,flat,0,normal blood flow,Yes
+62,Male,typical angina,120,267,No,ST-T wave abnormality,99,Yes,1.8,flat,2,reversible defect,No
+44,Female,non-anginal pain,118,242,No,ST-T wave abnormality,149,No,0.3,flat,1,normal blood flow,Yes
+44,Male,atypical angina,120,220,No,ST-T wave abnormality,170,No,0.0,upsloping,0,normal blood flow,Yes
+59,Male,non-anginal pain,126,218,Yes,ST-T wave abnormality,134,No,2.2,flat,1,fixed defect,No
+56,Female,atypical angina,140,294,No,normal,153,No,1.3,flat,0,normal blood flow,Yes
+61,Male,typical angina,120,260,No,ST-T wave abnormality,140,Yes,3.6,flat,1,reversible defect,No
+48,Male,typical angina,130,256,Yes,normal,150,Yes,0.0,upsloping,2,reversible defect,No
+70,Male,non-anginal pain,160,269,No,ST-T wave abnormality,112,Yes,2.9,flat,1,reversible defect,No
+74,Female,atypical angina,120,269,No,normal,121,Yes,0.2,upsloping,1,normal blood flow,Yes
+40,Male,asymptomic,140,199,No,ST-T wave abnormality,178,Yes,1.4,upsloping,0,reversible defect,Yes
+42,Male,asymptomic,148,244,No,normal,178,No,0.8,upsloping,2,normal blood flow,Yes
+64,Female,non-anginal pain,140,313,No,ST-T wave abnormality,133,No,0.2,upsloping,0,reversible defect,Yes
+63,Female,non-anginal pain,135,252,No,normal,172,No,0.0,upsloping,0,normal blood flow,Yes
+59,Male,typical angina,140,177,No,ST-T wave abnormality,162,Yes,0.0,upsloping,1,reversible defect,No
+53,Female,non-anginal pain,128,216,No,normal,115,No,0.0,upsloping,0,null,Yes
+53,Female,typical angina,130,264,No,normal,143,No,0.4,flat,0,normal blood flow,Yes
+48,Female,non-anginal pain,130,275,No,ST-T wave abnormality,139,No,0.2,upsloping,0,normal blood flow,Yes
+45,Male,typical angina,142,309,No,normal,147,Yes,0.0,flat,3,reversible defect,No
+66,Male,atypical angina,160,246,No,ST-T wave abnormality,120,Yes,0.0,flat,3,fixed defect,No
+48,Male,atypical angina,130,245,No,normal,180,No,0.2,flat,0,normal blood flow,Yes
+56,Female,atypical angina,140,294,No,normal,153,No,1.3,flat,0,normal blood flow,Yes
+54,Male,atypical angina,192,283,No,normal,195,No,0.0,upsloping,1,reversible defect,No
+57,Male,typical angina,150,276,No,normal,112,Yes,0.6,flat,1,fixed defect,No
+70,Male,typical angina,130,322,No,normal,109,No,2.4,flat,3,normal blood flow,No
+53,Female,non-anginal pain,128,216,No,normal,115,No,0.0,upsloping,0,null,Yes
+37,Female,non-anginal pain,120,215,No,ST-T wave abnormality,170,No,0.0,upsloping,0,normal blood flow,Yes
+63,Female,typical angina,108,269,No,ST-T wave abnormality,169,Yes,1.8,flat,2,normal blood flow,No
+37,Male,non-anginal pain,130,250,No,ST-T wave abnormality,187,No,3.5,downsloping,0,normal blood flow,Yes
+54,Female,non-anginal pain,110,214,No,ST-T wave abnormality,158,No,1.6,flat,0,normal blood flow,Yes
+60,Male,typical angina,130,206,No,normal,132,Yes,2.4,flat,2,reversible defect,No
+58,Male,typical angina,150,270,No,normal,111,Yes,0.8,upsloping,0,reversible defect,No
+57,Male,non-anginal pain,150,126,Yes,ST-T wave abnormality,173,No,0.2,upsloping,1,reversible defect,Yes
+54,Male,non-anginal pain,125,273,No,normal,152,No,0.5,downsloping,1,normal blood flow,Yes
+56,Male,non-anginal pain,130,256,Yes,normal,142,Yes,0.6,flat,1,fixed defect,No
+60,Male,typical angina,130,253,No,ST-T wave abnormality,144,Yes,1.4,upsloping,1,reversible defect,No
+38,Male,non-anginal pain,138,175,No,ST-T wave abnormality,173,No,0.0,upsloping,4,normal blood flow,Yes
+44,Male,non-anginal pain,120,226,No,ST-T wave abnormality,169,No,0.0,upsloping,0,normal blood flow,Yes
+65,Female,non-anginal pain,155,269,No,ST-T wave abnormality,148,No,0.8,upsloping,0,normal blood flow,Yes
+52,Male,non-anginal pain,172,199,Yes,ST-T wave abnormality,162,No,0.5,upsloping,0,reversible defect,Yes
+41,Male,atypical angina,120,157,No,ST-T wave abnormality,182,No,0.0,upsloping,0,normal blood flow,Yes
+66,Male,atypical angina,160,246,No,ST-T wave abnormality,120,Yes,0.0,flat,3,fixed defect,No
+50,Male,typical angina,150,243,No,normal,128,No,2.6,flat,0,reversible defect,No
+54,Female,non-anginal pain,108,267,No,normal,167,No,0.0,upsloping,0,normal blood flow,Yes
+43,Male,typical angina,132,247,Yes,normal,143,Yes,0.1,flat,4,reversible defect,No
+62,Female,non-anginal pain,130,263,No,ST-T wave abnormality,97,No,1.2,flat,1,reversible defect,No
+66,Male,typical angina,120,302,No,normal,151,No,0.4,flat,0,normal blood flow,Yes
+50,Male,typical angina,144,200,No,normal,126,Yes,0.9,flat,0,reversible defect,No
+57,Male,typical angina,110,335,No,ST-T wave abnormality,143,Yes,3.0,flat,1,reversible defect,No
+57,Male,typical angina,110,201,No,ST-T wave abnormality,126,Yes,1.5,flat,0,fixed defect,Yes
+57,Male,atypical angina,124,261,No,ST-T wave abnormality,141,No,0.3,upsloping,0,reversible defect,No
+46,Female,typical angina,138,243,No,normal,152,Yes,0.0,flat,0,normal blood flow,Yes
+59,Male,typical angina,164,176,Yes,normal,90,No,1.0,flat,2,fixed defect,No
+67,Male,typical angina,160,286,No,normal,108,Yes,1.5,flat,3,normal blood flow,No
+59,Male,asymptomic,134,204,No,ST-T wave abnormality,162,No,0.8,upsloping,2,normal blood flow,No
+53,Female,non-anginal pain,128,216,No,normal,115,No,0.0,upsloping,0,null,Yes
+48,Male,typical angina,122,222,No,normal,186,No,0.0,upsloping,0,normal blood flow,Yes
+62,Male,non-anginal pain,130,231,No,ST-T wave abnormality,146,No,1.8,flat,3,reversible defect,Yes
+43,Female,non-anginal pain,122,213,No,ST-T wave abnormality,165,No,0.2,flat,0,normal blood flow,Yes
+53,Male,non-anginal pain,130,246,Yes,normal,173,No,0.0,upsloping,3,normal blood flow,Yes
+57,Female,atypical angina,130,236,No,normal,174,No,0.0,flat,1,normal blood flow,No
+53,Male,non-anginal pain,130,246,Yes,normal,173,No,0.0,upsloping,3,normal blood flow,Yes
+58,Male,non-anginal pain,112,230,No,normal,165,No,2.5,flat,1,reversible defect,No
+48,Male,atypical angina,110,229,No,ST-T wave abnormality,168,No,1.0,downsloping,0,reversible defect,No
+58,Male,non-anginal pain,105,240,No,normal,154,Yes,0.6,flat,0,reversible defect,Yes
+51,Male,non-anginal pain,110,175,No,ST-T wave abnormality,123,No,0.6,upsloping,0,normal blood flow,Yes
+43,Female,typical angina,132,341,Yes,normal,136,Yes,3.0,flat,0,reversible defect,No
+55,Male,typical angina,132,353,No,ST-T wave abnormality,132,Yes,1.2,flat,1,reversible defect,No
+54,Female,non-anginal pain,110,214,No,ST-T wave abnormality,158,No,1.6,flat,0,normal blood flow,Yes
+58,Male,atypical angina,120,284,No,normal,160,No,1.8,flat,0,normal blood flow,No
+46,Female,non-anginal pain,142,177,No,normal,160,Yes,1.4,downsloping,0,normal blood flow,Yes
+66,Male,typical angina,160,228,No,normal,138,No,2.3,upsloping,0,fixed defect,Yes
+59,Male,atypical angina,140,221,No,ST-T wave abnormality,164,Yes,0.0,upsloping,0,normal blood flow,Yes
+64,Female,typical angina,130,303,No,ST-T wave abnormality,122,No,2.0,flat,2,normal blood flow,Yes
+67,Male,typical angina,120,237,No,ST-T wave abnormality,71,No,1.0,flat,0,normal blood flow,No
+52,Male,asymptomic,118,186,No,normal,190,No,0.0,flat,0,fixed defect,Yes
+58,Male,typical angina,146,218,No,ST-T wave abnormality,105,No,2.0,flat,1,reversible defect,No
+58,Male,non-anginal pain,132,224,No,normal,173,No,3.2,upsloping,2,reversible defect,No
+59,Male,typical angina,110,239,No,normal,142,Yes,1.2,flat,1,reversible defect,No
+58,Male,typical angina,150,270,No,normal,111,Yes,0.8,upsloping,0,reversible defect,No
+35,Male,typical angina,126,282,No,normal,156,Yes,0.0,upsloping,0,reversible defect,No
+51,Male,non-anginal pain,110,175,No,ST-T wave abnormality,123,No,0.6,upsloping,0,normal blood flow,Yes
+42,Female,non-anginal pain,120,209,No,ST-T wave abnormality,173,No,0.0,flat,0,normal blood flow,Yes
+77,Male,typical angina,125,304,No,normal,162,Yes,0.0,upsloping,3,normal blood flow,No
+64,Male,typical angina,120,246,No,normal,96,Yes,2.2,downsloping,1,normal blood flow,No
+63,Male,asymptomic,145,233,Yes,normal,150,No,2.3,downsloping,0,fixed defect,Yes
+58,Female,atypical angina,136,319,Yes,normal,152,No,0.0,upsloping,2,normal blood flow,No
+45,Male,asymptomic,110,264,No,ST-T wave abnormality,132,No,1.2,flat,0,reversible defect,No
+51,Male,non-anginal pain,110,175,No,ST-T wave abnormality,123,No,0.6,upsloping,0,normal blood flow,Yes
+62,Female,typical angina,160,164,No,normal,145,No,6.2,downsloping,3,reversible defect,No
+63,Male,typical angina,130,330,Yes,normal,132,Yes,1.8,upsloping,3,reversible defect,No
+66,Female,non-anginal pain,146,278,No,normal,152,No,0.0,flat,1,normal blood flow,Yes
+68,Male,non-anginal pain,180,274,Yes,normal,150,Yes,1.6,flat,0,reversible defect,No
+40,Male,typical angina,110,167,No,normal,114,Yes,2.0,flat,0,reversible defect,No
+66,Male,typical angina,160,228,No,normal,138,No,2.3,upsloping,0,fixed defect,Yes
+63,Male,asymptomic,145,233,Yes,normal,150,No,2.3,downsloping,0,fixed defect,Yes
+49,Male,non-anginal pain,120,188,No,ST-T wave abnormality,139,No,2.0,flat,3,reversible defect,No
+71,Female,typical angina,112,149,No,ST-T wave abnormality,125,No,1.6,flat,0,normal blood flow,Yes
+70,Male,atypical angina,156,245,No,normal,143,No,0.0,upsloping,0,normal blood flow,Yes
+46,Female,atypical angina,105,204,No,ST-T wave abnormality,172,No,0.0,upsloping,0,normal blood flow,Yes
+61,Male,typical angina,140,207,No,normal,138,Yes,1.9,upsloping,1,reversible defect,No
+56,Male,non-anginal pain,130,256,Yes,normal,142,Yes,0.6,flat,1,fixed defect,No
+58,Male,non-anginal pain,140,211,Yes,normal,165,No,0.0,upsloping,0,normal blood flow,Yes
+58,Male,typical angina,100,234,No,ST-T wave abnormality,156,No,0.1,upsloping,1,reversible defect,No
+46,Female,typical angina,138,243,No,normal,152,Yes,0.0,flat,0,normal blood flow,Yes
+46,Male,non-anginal pain,150,231,No,ST-T wave abnormality,147,No,3.6,flat,0,normal blood flow,No
+41,Female,atypical angina,105,198,No,ST-T wave abnormality,168,No,0.0,upsloping,1,normal blood flow,Yes
+56,Male,typical angina,125,249,Yes,normal,144,Yes,1.2,flat,1,normal blood flow,No
+57,Male,typical angina,150,276,No,normal,112,Yes,0.6,flat,1,fixed defect,No
+70,Male,typical angina,130,322,No,normal,109,No,2.4,flat,3,normal blood flow,No
+59,Male,asymptomic,170,288,No,normal,159,No,0.2,flat,0,reversible defect,No
+41,Female,atypical angina,130,204,No,normal,172,No,1.4,upsloping,0,normal blood flow,Yes
+54,Male,non-anginal pain,125,273,No,normal,152,No,0.5,downsloping,1,normal blood flow,Yes
+52,Male,non-anginal pain,138,223,No,ST-T wave abnormality,169,No,0.0,upsloping,4,normal blood flow,Yes
+62,Female,typical angina,124,209,No,ST-T wave abnormality,163,No,0.0,upsloping,0,normal blood flow,Yes
+65,Female,non-anginal pain,160,360,No,normal,151,No,0.8,upsloping,0,normal blood flow,Yes
+57,Female,typical angina,128,303,No,normal,159,No,0.0,upsloping,1,normal blood flow,Yes
+42,Female,typical angina,102,265,No,normal,122,No,0.6,flat,0,normal blood flow,Yes
+57,Female,typical angina,120,354,No,ST-T wave abnormality,163,Yes,0.6,upsloping,0,normal blood flow,Yes
+58,Female,atypical angina,136,319,Yes,normal,152,No,0.0,upsloping,2,normal blood flow,No
+45,Male,typical angina,142,309,No,normal,147,Yes,0.0,flat,3,reversible defect,No
+51,Female,typical angina,130,305,No,ST-T wave abnormality,142,Yes,1.2,flat,0,reversible defect,No
+54,Female,non-anginal pain,160,201,No,ST-T wave abnormality,163,No,0.0,upsloping,1,normal blood flow,Yes
+57,Male,non-anginal pain,150,168,No,ST-T wave abnormality,174,No,1.6,upsloping,0,normal blood flow,Yes
+43,Male,typical angina,132,247,Yes,normal,143,Yes,0.1,flat,4,reversible defect,No
+47,Male,non-anginal pain,108,243,No,ST-T wave abnormality,152,No,0.0,upsloping,0,normal blood flow,No
+67,Male,non-anginal pain,152,212,No,normal,150,No,0.8,flat,0,reversible defect,No
+65,Female,typical angina,150,225,No,normal,114,No,1.0,flat,3,reversible defect,No
+60,Female,non-anginal pain,102,318,No,ST-T wave abnormality,160,No,0.0,upsloping,1,normal blood flow,Yes
+37,Male,non-anginal pain,130,250,No,ST-T wave abnormality,187,No,3.5,downsloping,0,normal blood flow,Yes
+41,Female,non-anginal pain,112,268,No,normal,172,Yes,0.0,upsloping,0,normal blood flow,Yes
+57,Female,typical angina,120,354,No,ST-T wave abnormality,163,Yes,0.6,upsloping,0,normal blood flow,Yes
+59,Female,typical angina,174,249,No,ST-T wave abnormality,143,Yes,0.0,flat,0,normal blood flow,No
+67,Male,typical angina,120,229,No,normal,129,Yes,2.6,flat,2,reversible defect,No
+47,Male,non-anginal pain,130,253,No,ST-T wave abnormality,179,No,0.0,upsloping,0,normal blood flow,Yes
+58,Male,atypical angina,120,284,No,normal,160,No,1.8,flat,0,normal blood flow,No
+62,Female,typical angina,150,244,No,ST-T wave abnormality,154,Yes,1.4,flat,0,normal blood flow,No
+60,Male,typical angina,140,293,No,normal,170,No,1.2,flat,2,reversible defect,No
+57,Male,typical angina,152,274,No,ST-T wave abnormality,88,Yes,1.2,flat,1,reversible defect,No
+57,Male,non-anginal pain,150,168,No,ST-T wave abnormality,174,No,1.6,upsloping,0,normal blood flow,Yes
+47,Male,non-anginal pain,130,253,No,ST-T wave abnormality,179,No,0.0,upsloping,0,normal blood flow,Yes
+52,Male,atypical angina,128,205,Yes,ST-T wave abnormality,184,No,0.0,upsloping,0,normal blood flow,Yes
+53,Male,non-anginal pain,130,246,Yes,normal,173,No,0.0,upsloping,3,normal blood flow,Yes
+55,Male,typical angina,160,289,No,normal,145,Yes,0.8,flat,1,reversible defect,No
+51,Female,non-anginal pain,120,295,No,normal,157,No,0.6,upsloping,0,normal blood flow,Yes
+52,Male,typical angina,112,230,No,ST-T wave abnormality,160,No,0.0,upsloping,1,normal blood flow,No
+63,Female,typical angina,150,407,No,normal,154,No,4.0,flat,3,reversible defect,No
+49,Female,atypical angina,134,271,No,ST-T wave abnormality,162,No,0.0,flat,0,normal blood flow,Yes
+66,Female,typical angina,178,228,Yes,ST-T wave abnormality,165,Yes,1.0,flat,2,reversible defect,No
+49,Female,atypical angina,134,271,No,ST-T wave abnormality,162,No,0.0,flat,0,normal blood flow,Yes
+65,Female,typical angina,150,225,No,normal,114,No,1.0,flat,3,reversible defect,No
+69,Male,asymptomic,160,234,Yes,normal,131,No,0.1,flat,1,normal blood flow,Yes
+47,Male,non-anginal pain,108,243,No,ST-T wave abnormality,152,No,0.0,upsloping,0,normal blood flow,No
+39,Female,non-anginal pain,138,220,No,ST-T wave abnormality,152,No,0.0,flat,0,normal blood flow,Yes
+43,Male,typical angina,150,247,No,ST-T wave abnormality,171,No,1.5,upsloping,0,normal blood flow,Yes
+51,Male,typical angina,140,261,No,normal,186,Yes,0.0,upsloping,0,normal blood flow,Yes
+69,Male,non-anginal pain,140,254,No,normal,146,No,2.0,flat,3,reversible defect,No
+48,Male,non-anginal pain,124,255,Yes,ST-T wave abnormality,175,No,0.0,upsloping,2,normal blood flow,Yes
+52,Male,asymptomic,118,186,No,normal,190,No,0.0,flat,0,fixed defect,Yes
+43,Male,typical angina,110,211,No,ST-T wave abnormality,161,No,0.0,upsloping,0,reversible defect,Yes
+67,Female,non-anginal pain,115,564,No,normal,160,No,1.6,flat,0,reversible defect,Yes
+38,Male,non-anginal pain,138,175,No,ST-T wave abnormality,173,No,0.0,upsloping,4,normal blood flow,Yes
+44,Male,atypical angina,130,219,No,normal,188,No,0.0,upsloping,0,normal blood flow,Yes
+47,Male,typical angina,110,275,No,normal,118,Yes,1.0,flat,1,normal blood flow,No
+61,Male,non-anginal pain,150,243,Yes,ST-T wave abnormality,137,Yes,1.0,flat,0,normal blood flow,Yes
+67,Male,typical angina,160,286,No,normal,108,Yes,1.5,flat,3,normal blood flow,No
+60,Female,asymptomic,150,240,No,ST-T wave abnormality,171,No,0.9,upsloping,0,normal blood flow,Yes
+64,Female,non-anginal pain,140,313,No,ST-T wave abnormality,133,No,0.2,upsloping,0,reversible defect,Yes
+58,Female,typical angina,130,197,No,ST-T wave abnormality,131,No,0.6,flat,0,normal blood flow,Yes
+41,Male,non-anginal pain,130,214,No,normal,168,No,2.0,flat,0,normal blood flow,Yes
+48,Male,atypical angina,110,229,No,ST-T wave abnormality,168,No,1.0,downsloping,0,reversible defect,No
+57,Male,non-anginal pain,150,126,Yes,ST-T wave abnormality,173,No,0.2,upsloping,1,reversible defect,Yes
+57,Male,typical angina,165,289,Yes,normal,124,No,1.0,flat,3,reversible defect,No
+57,Male,non-anginal pain,128,229,No,normal,150,No,0.4,flat,1,reversible defect,No
+39,Male,non-anginal pain,140,321,No,normal,182,No,0.0,upsloping,0,normal blood flow,Yes
+58,Male,typical angina,128,216,No,normal,131,Yes,2.2,flat,3,reversible defect,No
+51,Female,typical angina,130,305,No,ST-T wave abnormality,142,Yes,1.2,flat,0,reversible defect,No
+63,Female,typical angina,150,407,No,normal,154,No,4.0,flat,3,reversible defect,No
+51,Male,typical angina,140,298,No,ST-T wave abnormality,122,Yes,4.2,flat,3,reversible defect,No
+35,Male,atypical angina,122,192,No,ST-T wave abnormality,174,No,0.0,upsloping,0,normal blood flow,Yes
+65,Male,typical angina,110,248,No,normal,158,No,0.6,upsloping,2,fixed defect,No
+62,Male,atypical angina,120,281,No,normal,103,No,1.4,flat,1,reversible defect,No
+41,Male,typical angina,110,172,No,normal,158,No,0.0,upsloping,0,reversible defect,No
+65,Male,typical angina,135,254,No,normal,127,No,2.8,flat,1,reversible defect,No
+54,Female,atypical angina,132,288,Yes,normal,159,Yes,0.0,upsloping,1,normal blood flow,Yes
+61,Male,non-anginal pain,150,243,Yes,ST-T wave abnormality,137,Yes,1.0,flat,0,normal blood flow,Yes
+57,Female,typical angina,128,303,No,normal,159,No,0.0,upsloping,1,normal blood flow,Yes
+57,Male,non-anginal pain,150,168,No,ST-T wave abnormality,174,No,1.6,upsloping,0,normal blood flow,Yes
+64,Male,non-anginal pain,125,309,No,ST-T wave abnormality,131,Yes,1.8,flat,0,reversible defect,No
+55,Male,typical angina,132,353,No,ST-T wave abnormality,132,Yes,1.2,flat,1,reversible defect,No
+51,Male,non-anginal pain,125,245,Yes,normal,166,No,2.4,flat,0,normal blood flow,Yes
+59,Male,typical angina,135,234,No,ST-T wave abnormality,161,No,0.5,flat,0,reversible defect,Yes
+68,Male,non-anginal pain,180,274,Yes,normal,150,Yes,1.6,flat,0,reversible defect,No
+57,Male,atypical angina,154,232,No,normal,164,No,0.0,upsloping,1,normal blood flow,No
+54,Male,typical angina,140,239,No,ST-T wave abnormality,160,No,1.2,upsloping,0,normal blood flow,Yes
+46,Female,non-anginal pain,142,177,No,normal,160,Yes,1.4,downsloping,0,normal blood flow,Yes
+71,Female,typical angina,112,149,No,ST-T wave abnormality,125,No,1.6,flat,0,normal blood flow,Yes
+35,Female,typical angina,138,183,No,ST-T wave abnormality,182,No,1.4,upsloping,0,normal blood flow,Yes
+46,Female,non-anginal pain,142,177,No,normal,160,Yes,1.4,downsloping,0,normal blood flow,Yes
+45,Female,atypical angina,130,234,No,normal,175,No,0.6,flat,0,normal blood flow,Yes
+47,Male,non-anginal pain,108,243,No,ST-T wave abnormality,152,No,0.0,upsloping,0,normal blood flow,No
+44,Female,non-anginal pain,118,242,No,ST-T wave abnormality,149,No,0.3,flat,1,normal blood flow,Yes
+61,Male,typical angina,120,260,No,ST-T wave abnormality,140,Yes,3.6,flat,1,reversible defect,No
+41,Female,atypical angina,130,204,No,normal,172,No,1.4,upsloping,0,normal blood flow,Yes
+56,Female,typical angina,200,288,Yes,normal,133,Yes,4.0,downsloping,2,reversible defect,No
+55,Female,typical angina,180,327,No,probable or definite left ventricular hypertrophy,117,Yes,3.4,flat,0,normal blood flow,No
+54,Female,atypical angina,132,288,Yes,normal,159,Yes,0.0,upsloping,1,normal blood flow,Yes
+43,Male,typical angina,120,177,No,normal,120,Yes,2.5,flat,0,reversible defect,No
+44,Male,typical angina,112,290,No,normal,153,No,0.0,upsloping,1,normal blood flow,No
+54,Male,typical angina,110,206,No,normal,108,Yes,0.0,flat,1,normal blood flow,No
+44,Male,atypical angina,120,220,No,ST-T wave abnormality,170,No,0.0,upsloping,0,normal blood flow,Yes
+49,Male,non-anginal pain,120,188,No,ST-T wave abnormality,139,No,2.0,flat,3,reversible defect,No
+60,Male,typical angina,130,206,No,normal,132,Yes,2.4,flat,2,reversible defect,No
+41,Female,atypical angina,105,198,No,ST-T wave abnormality,168,No,0.0,upsloping,1,normal blood flow,Yes
+49,Male,non-anginal pain,120,188,No,ST-T wave abnormality,139,No,2.0,flat,3,reversible defect,No
+61,Male,typical angina,148,203,No,ST-T wave abnormality,161,No,0.0,upsloping,1,reversible defect,No
+59,Male,typical angina,140,177,No,ST-T wave abnormality,162,Yes,0.0,upsloping,1,reversible defect,No
+58,Male,atypical angina,125,220,No,ST-T wave abnormality,144,No,0.4,flat,4,reversible defect,Yes
+67,Female,non-anginal pain,152,277,No,ST-T wave abnormality,172,No,0.0,upsloping,1,normal blood flow,Yes
+61,Male,typical angina,148,203,No,ST-T wave abnormality,161,No,0.0,upsloping,1,reversible defect,No
+58,Male,non-anginal pain,112,230,No,normal,165,No,2.5,flat,1,reversible defect,No
+51,Female,non-anginal pain,130,256,No,normal,149,No,0.5,upsloping,0,normal blood flow,Yes
+62,Female,typical angina,160,164,No,normal,145,No,6.2,downsloping,3,reversible defect,No
+62,Female,typical angina,124,209,No,ST-T wave abnormality,163,No,0.0,upsloping,0,normal blood flow,Yes
+59,Male,asymptomic,178,270,No,normal,145,No,4.2,downsloping,0,reversible defect,Yes
+69,Male,asymptomic,160,234,Yes,normal,131,No,0.1,flat,1,normal blood flow,Yes
+60,Female,typical angina,150,258,No,normal,157,No,2.6,flat,2,reversible defect,No
+65,Female,non-anginal pain,155,269,No,ST-T wave abnormality,148,No,0.8,upsloping,0,normal blood flow,Yes
+63,Female,typical angina,124,197,No,ST-T wave abnormality,136,Yes,0.0,flat,0,normal blood flow,No
+53,Female,typical angina,138,234,No,normal,160,No,0.0,upsloping,0,normal blood flow,Yes
+54,Female,non-anginal pain,108,267,No,normal,167,No,0.0,upsloping,0,normal blood flow,Yes
+76,Female,non-anginal pain,140,197,No,probable or definite left ventricular hypertrophy,116,No,1.1,flat,0,normal blood flow,Yes
+50,Female,non-anginal pain,120,219,No,ST-T wave abnormality,158,No,1.6,flat,0,normal blood flow,Yes
+52,Male,atypical angina,120,325,No,ST-T wave abnormality,172,No,0.2,upsloping,0,normal blood flow,Yes
+46,Male,typical angina,120,249,No,normal,144,No,0.8,upsloping,0,reversible defect,No
+64,Male,asymptomic,170,227,No,normal,155,No,0.6,flat,0,reversible defect,Yes
+58,Male,typical angina,128,259,No,normal,130,Yes,3.0,flat,2,reversible defect,No
+44,Male,non-anginal pain,140,235,No,normal,180,No,0.0,upsloping,0,normal blood flow,Yes
+62,Female,typical angina,140,394,No,normal,157,No,1.2,flat,0,normal blood flow,Yes
+59,Male,asymptomic,134,204,No,ST-T wave abnormality,162,No,0.8,upsloping,2,normal blood flow,No
+54,Male,non-anginal pain,125,273,No,normal,152,No,0.5,downsloping,1,normal blood flow,Yes
+48,Male,atypical angina,110,229,No,ST-T wave abnormality,168,No,1.0,downsloping,0,reversible defect,No
+70,Male,typical angina,130,322,No,normal,109,No,2.4,flat,3,normal blood flow,No
+67,Female,typical angina,106,223,No,ST-T wave abnormality,142,No,0.3,upsloping,2,normal blood flow,Yes
+51,Female,non-anginal pain,120,295,No,normal,157,No,0.6,upsloping,0,normal blood flow,Yes
+68,Male,non-anginal pain,118,277,No,ST-T wave abnormality,151,No,1.0,upsloping,1,reversible defect,Yes
+69,Male,non-anginal pain,140,254,No,normal,146,No,2.0,flat,3,reversible defect,No
+54,Male,typical angina,122,286,No,normal,116,Yes,3.2,flat,2,normal blood flow,No
+43,Female,typical angina,132,341,Yes,normal,136,Yes,3.0,flat,0,reversible defect,No
+53,Male,non-anginal pain,130,197,Yes,normal,152,No,1.2,downsloping,0,normal blood flow,Yes
+58,Male,typical angina,100,234,No,ST-T wave abnormality,156,No,0.1,upsloping,1,reversible defect,No
+67,Male,typical angina,125,254,Yes,ST-T wave abnormality,163,No,0.2,flat,2,reversible defect,No
+59,Male,typical angina,140,177,No,ST-T wave abnormality,162,Yes,0.0,upsloping,1,reversible defect,No
+48,Male,typical angina,122,222,No,normal,186,No,0.0,upsloping,0,normal blood flow,Yes
+39,Female,non-anginal pain,94,199,No,ST-T wave abnormality,179,No,0.0,upsloping,0,normal blood flow,Yes
+67,Male,typical angina,120,237,No,ST-T wave abnormality,71,No,1.0,flat,0,normal blood flow,No
+58,Female,typical angina,130,197,No,ST-T wave abnormality,131,No,0.6,flat,0,normal blood flow,Yes
+65,Female,non-anginal pain,155,269,No,ST-T wave abnormality,148,No,0.8,upsloping,0,normal blood flow,Yes
+42,Female,non-anginal pain,120,209,No,ST-T wave abnormality,173,No,0.0,flat,0,normal blood flow,Yes
+44,Male,typical angina,112,290,No,normal,153,No,0.0,upsloping,1,normal blood flow,No
+56,Male,typical angina,132,184,No,normal,105,Yes,2.1,flat,1,fixed defect,No
+53,Female,typical angina,138,234,No,normal,160,No,0.0,upsloping,0,normal blood flow,Yes
+50,Female,typical angina,110,254,No,normal,159,No,0.0,upsloping,0,normal blood flow,Yes
+41,Male,non-anginal pain,130,214,No,normal,168,No,2.0,flat,0,normal blood flow,Yes
+54,Female,non-anginal pain,160,201,No,ST-T wave abnormality,163,No,0.0,upsloping,1,normal blood flow,Yes
+42,Male,non-anginal pain,120,240,Yes,ST-T wave abnormality,194,No,0.8,downsloping,0,reversible defect,Yes
+54,Female,non-anginal pain,135,304,Yes,ST-T wave abnormality,170,No,0.0,upsloping,0,normal blood flow,Yes
+60,Male,typical angina,145,282,No,normal,142,Yes,2.8,flat,2,reversible defect,No
+34,Male,asymptomic,118,182,No,normal,174,No,0.0,upsloping,0,normal blood flow,Yes
+44,Male,typical angina,112,290,No,normal,153,No,0.0,upsloping,1,normal blood flow,No
+60,Male,typical angina,125,258,No,normal,141,Yes,2.8,flat,1,reversible defect,No
+43,Male,typical angina,150,247,No,ST-T wave abnormality,171,No,1.5,upsloping,0,normal blood flow,Yes
+52,Male,asymptomic,152,298,Yes,ST-T wave abnormality,178,No,1.2,flat,0,reversible defect,Yes
+70,Male,typical angina,130,322,No,normal,109,No,2.4,flat,3,normal blood flow,No
+62,Female,typical angina,140,394,No,normal,157,No,1.2,flat,0,normal blood flow,Yes
+58,Male,typical angina,146,218,No,ST-T wave abnormality,105,No,2.0,flat,1,reversible defect,No
+46,Male,atypical angina,101,197,Yes,ST-T wave abnormality,156,No,0.0,upsloping,0,reversible defect,Yes
+44,Male,non-anginal pain,140,235,No,normal,180,No,0.0,upsloping,0,normal blood flow,Yes
+55,Male,atypical angina,130,262,No,ST-T wave abnormality,155,No,0.0,upsloping,0,normal blood flow,Yes
+43,Male,typical angina,120,177,No,normal,120,Yes,2.5,flat,0,reversible defect,No
+55,Male,typical angina,132,353,No,ST-T wave abnormality,132,Yes,1.2,flat,1,reversible defect,No
+40,Male,asymptomic,140,199,No,ST-T wave abnormality,178,Yes,1.4,upsloping,0,reversible defect,Yes
+64,Male,non-anginal pain,125,309,No,ST-T wave abnormality,131,Yes,1.8,flat,0,reversible defect,No
+59,Male,typical angina,164,176,Yes,normal,90,No,1.0,flat,2,fixed defect,No
+61,Female,typical angina,145,307,No,normal,146,Yes,1.0,flat,0,reversible defect,No
+54,Male,typical angina,122,286,No,normal,116,Yes,3.2,flat,2,normal blood flow,No
+74,Female,atypical angina,120,269,No,normal,121,Yes,0.2,upsloping,1,normal blood flow,Yes
+63,Female,typical angina,108,269,No,ST-T wave abnormality,169,Yes,1.8,flat,2,normal blood flow,No
+70,Male,non-anginal pain,160,269,No,ST-T wave abnormality,112,Yes,2.9,flat,1,reversible defect,No
+63,Female,typical angina,108,269,No,ST-T wave abnormality,169,Yes,1.8,flat,2,normal blood flow,No
+64,Male,typical angina,145,212,No,normal,132,No,2.0,flat,2,fixed defect,No
+61,Male,typical angina,148,203,No,ST-T wave abnormality,161,No,0.0,upsloping,1,reversible defect,No
+59,Male,atypical angina,140,221,No,ST-T wave abnormality,164,Yes,0.0,upsloping,0,normal blood flow,Yes
+38,Male,non-anginal pain,138,175,No,ST-T wave abnormality,173,No,0.0,upsloping,4,normal blood flow,Yes
+58,Male,atypical angina,120,284,No,normal,160,No,1.8,flat,0,normal blood flow,No
+63,Female,atypical angina,140,195,No,ST-T wave abnormality,179,No,0.0,upsloping,2,normal blood flow,Yes
+62,Female,non-anginal pain,130,263,No,ST-T wave abnormality,97,No,1.2,flat,1,reversible defect,No
+46,Male,typical angina,140,311,No,ST-T wave abnormality,120,Yes,1.8,flat,2,reversible defect,No
+58,Female,non-anginal pain,120,340,No,ST-T wave abnormality,172,No,0.0,upsloping,0,normal blood flow,Yes
+63,Female,atypical angina,140,195,No,ST-T wave abnormality,179,No,0.0,upsloping,2,normal blood flow,Yes
+47,Male,non-anginal pain,130,253,No,ST-T wave abnormality,179,No,0.0,upsloping,0,normal blood flow,Yes
+71,Female,non-anginal pain,110,265,Yes,normal,130,No,0.0,upsloping,1,normal blood flow,Yes
+66,Male,typical angina,112,212,No,normal,132,Yes,0.1,upsloping,1,normal blood flow,No
+42,Male,typical angina,136,315,No,ST-T wave abnormality,125,Yes,1.8,flat,0,fixed defect,No
+64,Male,typical angina,145,212,No,normal,132,No,2.0,flat,2,fixed defect,No
+55,Female,typical angina,180,327,No,probable or definite left ventricular hypertrophy,117,Yes,3.4,flat,0,normal blood flow,No
+43,Female,typical angina,132,341,Yes,normal,136,Yes,3.0,flat,0,reversible defect,No
+55,Female,typical angina,128,205,No,probable or definite left ventricular hypertrophy,130,Yes,2.0,flat,1,reversible defect,No
+58,Female,typical angina,170,225,Yes,normal,146,Yes,2.8,flat,2,fixed defect,No
+55,Male,typical angina,140,217,No,ST-T wave abnormality,111,Yes,5.6,downsloping,0,reversible defect,No
+51,Female,typical angina,130,305,No,ST-T wave abnormality,142,Yes,1.2,flat,0,reversible defect,No
+50,Female,non-anginal pain,120,219,No,ST-T wave abnormality,158,No,1.6,flat,0,normal blood flow,Yes
+43,Male,typical angina,115,303,No,ST-T wave abnormality,181,No,1.2,flat,0,normal blood flow,Yes
+41,Female,atypical angina,126,306,No,ST-T wave abnormality,163,No,0.0,upsloping,0,normal blood flow,Yes
+49,Male,atypical angina,130,266,No,ST-T wave abnormality,171,No,0.6,upsloping,0,normal blood flow,Yes
+65,Male,typical angina,110,248,No,normal,158,No,0.6,upsloping,2,fixed defect,No
+57,Male,typical angina,152,274,No,ST-T wave abnormality,88,Yes,1.2,flat,1,reversible defect,No
+48,Male,typical angina,130,256,Yes,normal,150,Yes,0.0,upsloping,2,reversible defect,No
+62,Female,typical angina,138,294,Yes,ST-T wave abnormality,106,No,1.9,flat,3,normal blood flow,No
+61,Male,asymptomic,134,234,No,ST-T wave abnormality,145,No,2.6,flat,2,normal blood flow,No
+59,Male,asymptomic,178,270,No,normal,145,No,4.2,downsloping,0,reversible defect,Yes
+69,Male,non-anginal pain,140,254,No,normal,146,No,2.0,flat,3,reversible defect,No
+58,Male,non-anginal pain,132,224,No,normal,173,No,3.2,upsloping,2,reversible defect,No
+38,Male,asymptomic,120,231,No,ST-T wave abnormality,182,Yes,3.8,flat,0,reversible defect,No
+69,Female,asymptomic,140,239,No,ST-T wave abnormality,151,No,1.8,upsloping,2,normal blood flow,Yes
+65,Male,asymptomic,138,282,Yes,normal,174,No,1.4,flat,1,normal blood flow,No
+45,Male,asymptomic,110,264,No,ST-T wave abnormality,132,No,1.2,flat,0,reversible defect,No
+49,Male,atypical angina,130,266,No,ST-T wave abnormality,171,No,0.6,upsloping,0,normal blood flow,Yes
+45,Female,atypical angina,130,234,No,normal,175,No,0.6,flat,0,normal blood flow,Yes
+61,Male,typical angina,138,166,No,normal,125,Yes,3.6,flat,1,normal blood flow,No
+52,Male,typical angina,125,212,No,ST-T wave abnormality,168,No,1.0,upsloping,2,reversible defect,No
+53,Female,typical angina,130,264,No,normal,143,No,0.4,flat,0,normal blood flow,Yes
+59,Female,typical angina,174,249,No,ST-T wave abnormality,143,Yes,0.0,flat,0,normal blood flow,No
+58,Female,non-anginal pain,120,340,No,ST-T wave abnormality,172,No,0.0,upsloping,0,normal blood flow,Yes
+65,Male,asymptomic,138,282,Yes,normal,174,No,1.4,flat,1,normal blood flow,No
+58,Female,typical angina,130,197,No,ST-T wave abnormality,131,No,0.6,flat,0,normal blood flow,Yes
+46,Female,typical angina,138,243,No,normal,152,Yes,0.0,flat,0,normal blood flow,Yes
+56,Female,typical angina,134,409,No,normal,150,Yes,1.9,flat,2,reversible defect,No
+64,Male,typical angina,128,263,No,ST-T wave abnormality,105,Yes,0.2,flat,1,reversible defect,Yes
+65,Male,typical angina,120,177,No,ST-T wave abnormality,140,No,0.4,upsloping,0,reversible defect,Yes
+44,Male,non-anginal pain,120,226,No,ST-T wave abnormality,169,No,0.0,upsloping,0,normal blood flow,Yes
+50,Male,typical angina,150,243,No,normal,128,No,2.6,flat,0,reversible defect,No
+47,Male,non-anginal pain,108,243,No,ST-T wave abnormality,152,No,0.0,upsloping,0,normal blood flow,No
+64,Female,typical angina,130,303,No,ST-T wave abnormality,122,No,2.0,flat,2,normal blood flow,Yes
+71,Female,typical angina,112,149,No,ST-T wave abnormality,125,No,1.6,flat,0,normal blood flow,Yes
+45,Female,atypical angina,130,234,No,normal,175,No,0.6,flat,0,normal blood flow,Yes
+62,Male,typical angina,120,267,No,ST-T wave abnormality,99,Yes,1.8,flat,2,reversible defect,No
+41,Male,atypical angina,120,157,No,ST-T wave abnormality,182,No,0.0,upsloping,0,normal blood flow,Yes
+66,Female,asymptomic,150,226,No,ST-T wave abnormality,114,No,2.6,downsloping,0,normal blood flow,Yes
+56,Male,typical angina,130,283,Yes,normal,103,Yes,1.6,downsloping,0,reversible defect,No
+41,Female,atypical angina,126,306,No,ST-T wave abnormality,163,No,0.0,upsloping,0,normal blood flow,Yes
+41,Male,atypical angina,110,235,No,ST-T wave abnormality,153,No,0.0,upsloping,0,normal blood flow,Yes
+57,Female,atypical angina,130,236,No,normal,174,No,0.0,flat,1,normal blood flow,No
+39,Female,non-anginal pain,138,220,No,ST-T wave abnormality,152,No,0.0,flat,0,normal blood flow,Yes
+64,Male,non-anginal pain,125,309,No,ST-T wave abnormality,131,Yes,1.8,flat,0,reversible defect,No
+59,Male,typical angina,138,271,No,normal,182,No,0.0,upsloping,0,normal blood flow,Yes
+61,Male,typical angina,138,166,No,normal,125,Yes,3.6,flat,1,normal blood flow,No
+58,Male,typical angina,114,318,No,probable or definite left ventricular hypertrophy,140,No,4.4,downsloping,3,fixed defect,No
+47,Male,typical angina,112,204,No,ST-T wave abnormality,143,No,0.1,upsloping,0,normal blood flow,Yes
+58,Female,typical angina,100,248,No,normal,122,No,1.0,flat,0,normal blood flow,Yes
+66,Female,asymptomic,150,226,No,ST-T wave abnormality,114,No,2.6,downsloping,0,normal blood flow,Yes
+65,Female,non-anginal pain,140,417,Yes,normal,157,No,0.8,upsloping,1,normal blood flow,Yes
+35,Male,atypical angina,122,192,No,ST-T wave abnormality,174,No,0.0,upsloping,0,normal blood flow,Yes
+57,Male,atypical angina,124,261,No,ST-T wave abnormality,141,No,0.3,upsloping,0,reversible defect,No
+29,Male,atypical angina,130,204,No,normal,202,No,0.0,upsloping,0,normal blood flow,Yes
+66,Male,atypical angina,160,246,No,ST-T wave abnormality,120,Yes,0.0,flat,3,fixed defect,No
+61,Female,typical angina,130,330,No,normal,169,No,0.0,upsloping,0,normal blood flow,No
+52,Male,typical angina,125,212,No,ST-T wave abnormality,168,No,1.0,upsloping,2,reversible defect,No
+68,Male,non-anginal pain,118,277,No,ST-T wave abnormality,151,No,1.0,upsloping,1,reversible defect,Yes
+54,Male,non-anginal pain,120,258,No,normal,147,No,0.4,flat,0,reversible defect,Yes
+63,Male,typical angina,130,330,Yes,normal,132,Yes,1.8,upsloping,3,reversible defect,No
+58,Male,typical angina,100,234,No,ST-T wave abnormality,156,No,0.1,upsloping,1,reversible defect,No
+60,Male,typical angina,130,253,No,ST-T wave abnormality,144,Yes,1.4,upsloping,1,reversible defect,No
+63,Male,typical angina,130,254,No,normal,147,No,1.4,flat,1,reversible defect,No
+41,Female,non-anginal pain,112,268,No,normal,172,Yes,0.0,upsloping,0,normal blood flow,Yes
+68,Male,non-anginal pain,180,274,Yes,normal,150,Yes,1.6,flat,0,reversible defect,No
+42,Male,atypical angina,120,295,No,ST-T wave abnormality,162,No,0.0,upsloping,0,normal blood flow,Yes
+59,Male,typical angina,170,326,No,normal,140,Yes,3.4,downsloping,0,reversible defect,No
+59,Male,typical angina,164,176,Yes,normal,90,No,1.0,flat,2,fixed defect,No
+43,Male,typical angina,120,177,No,normal,120,Yes,2.5,flat,0,reversible defect,No
+60,Male,non-anginal pain,140,185,No,normal,155,No,3.0,flat,0,normal blood flow,No
+63,Female,typical angina,150,407,No,normal,154,No,4.0,flat,3,reversible defect,No
+52,Male,typical angina,128,204,Yes,ST-T wave abnormality,156,Yes,1.0,flat,0,null,No
+58,Male,typical angina,125,300,No,normal,171,No,0.0,upsloping,2,reversible defect,No
+56,Female,typical angina,200,288,Yes,normal,133,Yes,4.0,downsloping,2,reversible defect,No
+54,Female,non-anginal pain,135,304,Yes,ST-T wave abnormality,170,No,0.0,upsloping,0,normal blood flow,Yes
+58,Male,non-anginal pain,105,240,No,normal,154,Yes,0.6,flat,0,reversible defect,Yes
+55,Female,atypical angina,135,250,No,normal,161,No,1.4,flat,0,normal blood flow,Yes
+53,Male,typical angina,140,203,Yes,normal,155,Yes,3.1,downsloping,0,reversible defect,No
+63,Female,atypical angina,140,195,No,ST-T wave abnormality,179,No,0.0,upsloping,2,normal blood flow,Yes
+39,Male,typical angina,118,219,No,ST-T wave abnormality,140,No,1.2,flat,0,reversible defect,No
+35,Male,typical angina,126,282,No,normal,156,Yes,0.0,upsloping,0,reversible defect,No
+50,Female,non-anginal pain,120,219,No,ST-T wave abnormality,158,No,1.6,flat,0,normal blood flow,Yes
+67,Male,non-anginal pain,152,212,No,normal,150,No,0.8,flat,0,reversible defect,No
+66,Male,typical angina,112,212,No,normal,132,Yes,0.1,upsloping,1,normal blood flow,No
+35,Male,typical angina,126,282,No,normal,156,Yes,0.0,upsloping,0,reversible defect,No
+41,Male,non-anginal pain,130,214,No,normal,168,No,2.0,flat,0,normal blood flow,Yes
+35,Male,typical angina,120,198,No,ST-T wave abnormality,130,Yes,1.6,flat,0,reversible defect,No
+71,Female,atypical angina,160,302,No,ST-T wave abnormality,162,No,0.4,upsloping,2,normal blood flow,Yes
+57,Male,typical angina,110,201,No,ST-T wave abnormality,126,Yes,1.5,flat,0,fixed defect,Yes
+51,Male,non-anginal pain,94,227,No,ST-T wave abnormality,154,Yes,0.0,upsloping,1,reversible defect,Yes
+58,Male,typical angina,128,216,No,normal,131,Yes,2.2,flat,3,reversible defect,No
+57,Male,non-anginal pain,128,229,No,normal,150,No,0.4,flat,1,reversible defect,No
+56,Female,atypical angina,140,294,No,normal,153,No,1.3,flat,0,normal blood flow,Yes
+60,Female,non-anginal pain,120,178,Yes,ST-T wave abnormality,96,No,0.0,upsloping,0,normal blood flow,Yes
+45,Male,asymptomic,110,264,No,ST-T wave abnormality,132,No,1.2,flat,0,reversible defect,No
+56,Male,atypical angina,130,221,No,normal,163,No,0.0,upsloping,0,reversible defect,Yes
+35,Male,typical angina,120,198,No,ST-T wave abnormality,130,Yes,1.6,flat,0,reversible defect,No
+45,Female,atypical angina,112,160,No,ST-T wave abnormality,138,No,0.0,flat,0,normal blood flow,Yes
+66,Female,asymptomic,150,226,No,ST-T wave abnormality,114,No,2.6,downsloping,0,normal blood flow,Yes
+51,Male,asymptomic,125,213,No,normal,125,Yes,1.4,upsloping,1,normal blood flow,Yes
+70,Male,atypical angina,156,245,No,normal,143,No,0.0,upsloping,0,normal blood flow,Yes
+55,Female,typical angina,128,205,No,probable or definite left ventricular hypertrophy,130,Yes,2.0,flat,1,reversible defect,No
+56,Male,non-anginal pain,130,256,Yes,normal,142,Yes,0.6,flat,1,fixed defect,No
+55,Female,atypical angina,135,250,No,normal,161,No,1.4,flat,0,normal blood flow,Yes
+52,Male,typical angina,108,233,Yes,ST-T wave abnormality,147,No,0.1,upsloping,3,reversible defect,Yes
+64,Male,non-anginal pain,140,335,No,ST-T wave abnormality,158,No,0.0,upsloping,0,normal blood flow,No
+45,Male,typical angina,115,260,No,normal,185,No,0.0,upsloping,0,normal blood flow,Yes
+67,Female,non-anginal pain,152,277,No,ST-T wave abnormality,172,No,0.0,upsloping,1,normal blood flow,Yes
+68,Female,non-anginal pain,120,211,No,normal,115,No,1.5,flat,0,normal blood flow,Yes
+74,Female,atypical angina,120,269,No,normal,121,Yes,0.2,upsloping,1,normal blood flow,Yes
+60,Female,typical angina,150,258,No,normal,157,No,2.6,flat,2,reversible defect,No
+48,Male,typical angina,124,274,No,normal,166,No,0.5,flat,0,reversible defect,No
+56,Male,atypical angina,130,221,No,normal,163,No,0.0,upsloping,0,reversible defect,Yes
+46,Male,typical angina,140,311,No,ST-T wave abnormality,120,Yes,1.8,flat,2,reversible defect,No
+55,Female,atypical angina,135,250,No,normal,161,No,1.4,flat,0,normal blood flow,Yes
+44,Male,atypical angina,120,220,No,ST-T wave abnormality,170,No,0.0,upsloping,0,normal blood flow,Yes
+52,Male,typical angina,112,230,No,ST-T wave abnormality,160,No,0.0,upsloping,1,normal blood flow,No
+51,Male,non-anginal pain,94,227,No,ST-T wave abnormality,154,Yes,0.0,upsloping,1,reversible defect,Yes
+44,Female,non-anginal pain,108,141,No,ST-T wave abnormality,175,No,0.6,flat,0,normal blood flow,Yes
+52,Male,typical angina,128,204,Yes,ST-T wave abnormality,156,Yes,1.0,flat,0,null,No
+50,Male,non-anginal pain,129,196,No,ST-T wave abnormality,163,No,0.0,upsloping,0,normal blood flow,Yes
+59,Male,typical angina,110,239,No,normal,142,Yes,1.2,flat,1,reversible defect,No
+67,Male,typical angina,120,229,No,normal,129,Yes,2.6,flat,2,reversible defect,No
+58,Male,typical angina,125,300,No,normal,171,No,0.0,upsloping,2,reversible defect,No
+52,Male,typical angina,128,255,No,ST-T wave abnormality,161,Yes,0.0,upsloping,1,reversible defect,No
+44,Male,non-anginal pain,140,235,No,normal,180,No,0.0,upsloping,0,normal blood flow,Yes
+41,Female,non-anginal pain,112,268,No,normal,172,Yes,0.0,upsloping,0,normal blood flow,Yes
+63,Male,typical angina,130,330,Yes,normal,132,Yes,1.8,upsloping,3,reversible defect,No
+58,Male,atypical angina,125,220,No,ST-T wave abnormality,144,No,0.4,flat,4,reversible defect,Yes
+60,Female,non-anginal pain,102,318,No,ST-T wave abnormality,160,No,0.0,upsloping,1,normal blood flow,Yes
+51,Male,non-anginal pain,100,222,No,ST-T wave abnormality,143,Yes,1.2,flat,0,normal blood flow,Yes
+64,Male,non-anginal pain,140,335,No,ST-T wave abnormality,158,No,0.0,upsloping,0,normal blood flow,No
+60,Male,typical angina,117,230,Yes,ST-T wave abnormality,160,Yes,1.4,upsloping,2,reversible defect,No
+44,Male,non-anginal pain,120,226,No,ST-T wave abnormality,169,No,0.0,upsloping,0,normal blood flow,Yes
+58,Male,atypical angina,125,220,No,ST-T wave abnormality,144,No,0.4,flat,4,reversible defect,Yes
+55,Male,atypical angina,130,262,No,ST-T wave abnormality,155,No,0.0,upsloping,0,normal blood flow,Yes
+65,Female,non-anginal pain,160,360,No,normal,151,No,0.8,upsloping,0,normal blood flow,Yes
+48,Male,atypical angina,130,245,No,normal,180,No,0.2,flat,0,normal blood flow,Yes
+65,Male,typical angina,120,177,No,ST-T wave abnormality,140,No,0.4,upsloping,0,reversible defect,Yes
+51,Female,non-anginal pain,130,256,No,normal,149,No,0.5,upsloping,0,normal blood flow,Yes
+48,Male,non-anginal pain,124,255,Yes,ST-T wave abnormality,175,No,0.0,upsloping,2,normal blood flow,Yes
+64,Male,typical angina,120,246,No,normal,96,Yes,2.2,downsloping,1,normal blood flow,No
+66,Male,typical angina,160,228,No,normal,138,No,2.3,upsloping,0,fixed defect,Yes
+46,Female,atypical angina,105,204,No,ST-T wave abnormality,172,No,0.0,upsloping,0,normal blood flow,Yes
+61,Female,typical angina,130,330,No,normal,169,No,0.0,upsloping,0,normal blood flow,No
+57,Male,typical angina,150,276,No,normal,112,Yes,0.6,flat,1,fixed defect,No
+49,Female,typical angina,130,269,No,ST-T wave abnormality,163,No,0.0,upsloping,0,normal blood flow,Yes
+56,Male,atypical angina,130,221,No,normal,163,No,0.0,upsloping,0,reversible defect,Yes
+58,Female,asymptomic,150,283,Yes,normal,162,No,1.0,upsloping,0,normal blood flow,Yes
+63,Male,typical angina,140,187,No,normal,144,Yes,4.0,upsloping,2,reversible defect,No
+57,Male,typical angina,110,335,No,ST-T wave abnormality,143,Yes,3.0,flat,1,reversible defect,No
+57,Male,typical angina,110,335,No,ST-T wave abnormality,143,Yes,3.0,flat,1,reversible defect,No
+68,Male,typical angina,144,193,Yes,ST-T wave abnormality,141,No,3.4,flat,2,reversible defect,No
+46,Male,atypical angina,101,197,Yes,ST-T wave abnormality,156,No,0.0,upsloping,0,reversible defect,Yes
+71,Female,non-anginal pain,110,265,Yes,normal,130,No,0.0,upsloping,1,normal blood flow,Yes
+41,Male,atypical angina,135,203,No,ST-T wave abnormality,132,No,0.0,flat,0,fixed defect,Yes
+45,Female,typical angina,138,236,No,normal,152,Yes,0.2,flat,0,normal blood flow,Yes
+62,Female,typical angina,150,244,No,ST-T wave abnormality,154,Yes,1.4,flat,0,normal blood flow,No
+65,Female,typical angina,150,225,No,normal,114,No,1.0,flat,3,reversible defect,No
+48,Female,non-anginal pain,130,275,No,ST-T wave abnormality,139,No,0.2,upsloping,0,normal blood flow,Yes
+51,Male,non-anginal pain,100,222,No,ST-T wave abnormality,143,Yes,1.2,flat,0,normal blood flow,Yes
+61,Female,typical angina,145,307,No,normal,146,Yes,1.0,flat,0,reversible defect,No
+53,Male,typical angina,123,282,No,ST-T wave abnormality,95,Yes,2.0,flat,2,reversible defect,No
+59,Male,asymptomic,134,204,No,ST-T wave abnormality,162,No,0.8,upsloping,2,normal blood flow,No
+34,Female,atypical angina,118,210,No,ST-T wave abnormality,192,No,0.7,upsloping,0,normal blood flow,Yes
+44,Male,typical angina,120,169,No,ST-T wave abnormality,144,Yes,2.8,downsloping,0,fixed defect,No
+58,Male,typical angina,146,218,No,ST-T wave abnormality,105,No,2.0,flat,1,reversible defect,No
+64,Female,typical angina,130,303,No,ST-T wave abnormality,122,No,2.0,flat,2,normal blood flow,Yes
+56,Male,atypical angina,120,240,No,ST-T wave abnormality,169,No,0.0,downsloping,0,normal blood flow,Yes
+54,Male,non-anginal pain,150,232,No,normal,165,No,1.6,upsloping,0,reversible defect,Yes
+55,Male,typical angina,160,289,No,normal,145,Yes,0.8,flat,1,reversible defect,No
+67,Male,typical angina,125,254,Yes,ST-T wave abnormality,163,No,0.2,flat,2,reversible defect,No
+51,Male,typical angina,140,298,No,ST-T wave abnormality,122,Yes,4.2,flat,3,reversible defect,No
+62,Female,typical angina,138,294,Yes,ST-T wave abnormality,106,No,1.9,flat,3,normal blood flow,No
+62,Male,atypical angina,120,281,No,normal,103,No,1.4,flat,1,reversible defect,No
+54,Male,typical angina,110,239,No,ST-T wave abnormality,126,Yes,2.8,flat,1,reversible defect,No
+54,Male,typical angina,110,239,No,ST-T wave abnormality,126,Yes,2.8,flat,1,reversible defect,No
+68,Male,typical angina,144,193,Yes,ST-T wave abnormality,141,No,3.4,flat,2,reversible defect,No
+60,Female,non-anginal pain,120,178,Yes,ST-T wave abnormality,96,No,0.0,upsloping,0,normal blood flow,Yes
+61,Male,asymptomic,134,234,No,ST-T wave abnormality,145,No,2.6,flat,2,normal blood flow,No
+62,Male,atypical angina,128,208,Yes,normal,140,No,0.0,upsloping,0,normal blood flow,Yes
+41,Male,atypical angina,135,203,No,ST-T wave abnormality,132,No,0.0,flat,0,fixed defect,Yes
+65,Female,typical angina,150,225,No,normal,114,No,1.0,flat,3,reversible defect,No
+59,Male,asymptomic,170,288,No,normal,159,No,0.2,flat,0,reversible defect,No
+43,Male,typical angina,115,303,No,ST-T wave abnormality,181,No,1.2,flat,0,normal blood flow,Yes
+67,Male,typical angina,120,229,No,normal,129,Yes,2.6,flat,2,reversible defect,No
+63,Male,asymptomic,145,233,Yes,normal,150,No,2.3,downsloping,0,fixed defect,Yes
+63,Female,typical angina,124,197,No,ST-T wave abnormality,136,Yes,0.0,flat,0,normal blood flow,No
+52,Male,typical angina,112,230,No,ST-T wave abnormality,160,No,0.0,upsloping,1,normal blood flow,No
+58,Female,typical angina,130,197,No,ST-T wave abnormality,131,No,0.6,flat,0,normal blood flow,Yes
+53,Male,typical angina,142,226,No,normal,111,Yes,0.0,upsloping,0,reversible defect,Yes
+57,Male,typical angina,150,276,No,normal,112,Yes,0.6,flat,1,fixed defect,No
+44,Male,non-anginal pain,130,233,No,ST-T wave abnormality,179,Yes,0.4,upsloping,0,normal blood flow,Yes
+51,Male,non-anginal pain,94,227,No,ST-T wave abnormality,154,Yes,0.0,upsloping,1,reversible defect,Yes
+54,Female,non-anginal pain,110,214,No,ST-T wave abnormality,158,No,1.6,flat,0,normal blood flow,Yes
+40,Male,typical angina,110,167,No,normal,114,Yes,2.0,flat,0,reversible defect,No
+57,Male,atypical angina,124,261,No,ST-T wave abnormality,141,No,0.3,upsloping,0,reversible defect,No
+62,Female,typical angina,140,268,No,normal,160,No,3.6,downsloping,2,normal blood flow,No
+53,Male,typical angina,140,203,Yes,normal,155,Yes,3.1,downsloping,0,reversible defect,No
+62,Male,atypical angina,128,208,Yes,normal,140,No,0.0,upsloping,0,normal blood flow,Yes
+58,Male,non-anginal pain,105,240,No,normal,154,Yes,0.6,flat,0,reversible defect,Yes
+70,Male,atypical angina,156,245,No,normal,143,No,0.0,upsloping,0,normal blood flow,Yes
+45,Male,typical angina,115,260,No,normal,185,No,0.0,upsloping,0,normal blood flow,Yes
+42,Male,asymptomic,148,244,No,normal,178,No,0.8,upsloping,2,normal blood flow,Yes
+58,Female,typical angina,170,225,Yes,normal,146,Yes,2.8,flat,2,fixed defect,No
+61,Male,typical angina,140,207,No,normal,138,Yes,1.9,upsloping,1,reversible defect,No
+62,Female,typical angina,140,268,No,normal,160,No,3.6,downsloping,2,normal blood flow,No
+60,Male,typical angina,130,253,No,ST-T wave abnormality,144,Yes,1.4,upsloping,1,reversible defect,No
+54,Male,typical angina,140,239,No,ST-T wave abnormality,160,No,1.2,upsloping,0,normal blood flow,Yes
+61,Male,typical angina,138,166,No,normal,125,Yes,3.6,flat,1,normal blood flow,No
+63,Female,non-anginal pain,135,252,No,normal,172,No,0.0,upsloping,0,normal blood flow,Yes
+42,Male,non-anginal pain,130,180,No,ST-T wave abnormality,150,No,0.0,upsloping,0,normal blood flow,Yes
+57,Male,non-anginal pain,128,229,No,normal,150,No,0.4,flat,1,reversible defect,No
+44,Male,non-anginal pain,130,233,No,ST-T wave abnormality,179,Yes,0.4,upsloping,0,normal blood flow,Yes
+54,Male,typical angina,124,266,No,normal,109,Yes,2.2,flat,1,reversible defect,No
+51,Male,non-anginal pain,100,222,No,ST-T wave abnormality,143,Yes,1.2,flat,0,normal blood flow,Yes
+58,Male,atypical angina,125,220,No,ST-T wave abnormality,144,No,0.4,flat,4,reversible defect,Yes
+68,Male,non-anginal pain,118,277,No,ST-T wave abnormality,151,No,1.0,upsloping,1,reversible defect,Yes
+55,Male,typical angina,140,217,No,ST-T wave abnormality,111,Yes,5.6,downsloping,0,reversible defect,No
+42,Male,typical angina,136,315,No,ST-T wave abnormality,125,Yes,1.8,flat,0,fixed defect,No
+49,Male,non-anginal pain,118,149,No,normal,126,No,0.8,upsloping,3,normal blood flow,No
+53,Female,typical angina,138,234,No,normal,160,No,0.0,upsloping,0,normal blood flow,Yes
+52,Male,non-anginal pain,172,199,Yes,ST-T wave abnormality,162,No,0.5,upsloping,0,reversible defect,Yes
+51,Male,asymptomic,125,213,No,normal,125,Yes,1.4,upsloping,1,normal blood flow,Yes
+51,Male,typical angina,140,261,No,normal,186,Yes,0.0,upsloping,0,normal blood flow,Yes
+70,Male,typical angina,145,174,No,ST-T wave abnormality,125,Yes,2.6,downsloping,0,reversible defect,No
+35,Female,typical angina,138,183,No,ST-T wave abnormality,182,No,1.4,upsloping,0,normal blood flow,Yes
+58,Male,non-anginal pain,112,230,No,normal,165,No,2.5,flat,1,reversible defect,No
+59,Male,asymptomic,160,273,No,normal,125,No,0.0,upsloping,0,normal blood flow,No
+60,Male,typical angina,140,293,No,normal,170,No,1.2,flat,2,reversible defect,No
+56,Male,typical angina,132,184,No,normal,105,Yes,2.1,flat,1,fixed defect,No
+35,Female,typical angina,138,183,No,ST-T wave abnormality,182,No,1.4,upsloping,0,normal blood flow,Yes
+61,Male,typical angina,138,166,No,normal,125,Yes,3.6,flat,1,normal blood flow,No
+58,Female,asymptomic,150,283,Yes,normal,162,No,1.0,upsloping,0,normal blood flow,Yes
+52,Male,typical angina,128,255,No,ST-T wave abnormality,161,Yes,0.0,upsloping,1,reversible defect,No
+58,Male,atypical angina,120,284,No,normal,160,No,1.8,flat,0,normal blood flow,No
+37,Male,non-anginal pain,130,250,No,ST-T wave abnormality,187,No,3.5,downsloping,0,normal blood flow,Yes
+52,Male,typical angina,128,255,No,ST-T wave abnormality,161,Yes,0.0,upsloping,1,reversible defect,No
+67,Male,typical angina,120,229,No,normal,129,Yes,2.6,flat,2,reversible defect,No
+65,Male,asymptomic,138,282,Yes,normal,174,No,1.4,flat,1,normal blood flow,No
+46,Male,atypical angina,101,197,Yes,ST-T wave abnormality,156,No,0.0,upsloping,0,reversible defect,Yes
+68,Female,non-anginal pain,120,211,No,normal,115,No,1.5,flat,0,normal blood flow,Yes
+43,Male,typical angina,115,303,No,ST-T wave abnormality,181,No,1.2,flat,0,normal blood flow,Yes
+68,Female,non-anginal pain,120,211,No,normal,115,No,1.5,flat,0,normal blood flow,Yes
+51,Male,typical angina,140,299,No,ST-T wave abnormality,173,Yes,1.6,upsloping,0,reversible defect,No
+52,Male,typical angina,112,230,No,ST-T wave abnormality,160,No,0.0,upsloping,1,normal blood flow,No
+64,Male,non-anginal pain,140,335,No,ST-T wave abnormality,158,No,0.0,upsloping,0,normal blood flow,No
+59,Male,asymptomic,170,288,No,normal,159,No,0.2,flat,0,reversible defect,No
+52,Male,typical angina,125,212,No,ST-T wave abnormality,168,No,1.0,upsloping,2,reversible defect,No
+59,Male,asymptomic,160,273,No,normal,125,No,0.0,upsloping,0,normal blood flow,No
+60,Female,asymptomic,150,240,No,ST-T wave abnormality,171,No,0.9,upsloping,0,normal blood flow,Yes
+41,Male,non-anginal pain,112,250,No,ST-T wave abnormality,179,No,0.0,upsloping,0,normal blood flow,Yes
+41,Male,atypical angina,110,235,No,ST-T wave abnormality,153,No,0.0,upsloping,0,normal blood flow,Yes
+56,Male,atypical angina,120,240,No,ST-T wave abnormality,169,No,0.0,downsloping,0,normal blood flow,Yes
+56,Male,atypical angina,120,236,No,ST-T wave abnormality,178,No,0.8,upsloping,0,normal blood flow,Yes
+48,Female,non-anginal pain,130,275,No,ST-T wave abnormality,139,No,0.2,upsloping,0,normal blood flow,Yes
+39,Male,non-anginal pain,140,321,No,normal,182,No,0.0,upsloping,0,normal blood flow,Yes
+64,Male,asymptomic,170,227,No,normal,155,No,0.6,flat,0,reversible defect,Yes
+57,Male,typical angina,140,192,No,ST-T wave abnormality,148,No,0.4,flat,0,fixed defect,Yes
+59,Male,asymptomic,160,273,No,normal,125,No,0.0,upsloping,0,normal blood flow,No
+60,Male,typical angina,130,206,No,normal,132,Yes,2.4,flat,2,reversible defect,No
+61,Male,typical angina,140,207,No,normal,138,Yes,1.9,upsloping,1,reversible defect,No
+43,Female,non-anginal pain,122,213,No,ST-T wave abnormality,165,No,0.2,flat,0,normal blood flow,Yes
+54,Male,typical angina,120,188,No,ST-T wave abnormality,113,No,1.4,flat,1,reversible defect,No
+59,Male,typical angina,138,271,No,normal,182,No,0.0,upsloping,0,normal blood flow,Yes
+57,Male,typical angina,132,207,No,ST-T wave abnormality,168,Yes,0.0,upsloping,0,reversible defect,Yes
+57,Male,atypical angina,154,232,No,normal,164,No,0.0,upsloping,1,normal blood flow,No
+57,Male,typical angina,130,131,No,ST-T wave abnormality,115,Yes,1.2,flat,1,reversible defect,No
+48,Male,typical angina,124,274,No,normal,166,No,0.5,flat,0,reversible defect,No
+70,Male,typical angina,145,174,No,ST-T wave abnormality,125,Yes,2.6,downsloping,0,reversible defect,No
+57,Male,typical angina,165,289,Yes,normal,124,No,1.0,flat,3,reversible defect,No
+61,Male,typical angina,120,260,No,ST-T wave abnormality,140,Yes,3.6,flat,1,reversible defect,No
+57,Male,typical angina,110,201,No,ST-T wave abnormality,126,Yes,1.5,flat,0,fixed defect,Yes
+60,Female,typical angina,150,258,No,normal,157,No,2.6,flat,2,reversible defect,No
+63,Female,typical angina,150,407,No,normal,154,No,4.0,flat,3,reversible defect,No
+55,Female,typical angina,128,205,No,probable or definite left ventricular hypertrophy,130,Yes,2.0,flat,1,reversible defect,No
+64,Female,typical angina,180,325,No,ST-T wave abnormality,154,Yes,0.0,upsloping,0,normal blood flow,Yes
+54,Male,typical angina,110,239,No,ST-T wave abnormality,126,Yes,2.8,flat,1,reversible defect,No
+52,Male,typical angina,128,204,Yes,ST-T wave abnormality,156,Yes,1.0,flat,0,null,No
+51,Male,typical angina,140,299,No,ST-T wave abnormality,173,Yes,1.6,upsloping,0,reversible defect,No
+62,Female,non-anginal pain,130,263,No,ST-T wave abnormality,97,No,1.2,flat,1,reversible defect,No
+59,Male,asymptomic,178,270,No,normal,145,No,4.2,downsloping,0,reversible defect,Yes
+52,Male,atypical angina,134,201,No,ST-T wave abnormality,158,No,0.8,upsloping,1,normal blood flow,Yes
+42,Female,typical angina,102,265,No,normal,122,No,0.6,flat,0,normal blood flow,Yes
+59,Male,typical angina,135,234,No,ST-T wave abnormality,161,No,0.5,flat,0,reversible defect,Yes
+61,Male,asymptomic,134,234,No,ST-T wave abnormality,145,No,2.6,flat,2,normal blood flow,No
+42,Female,typical angina,102,265,No,normal,122,No,0.6,flat,0,normal blood flow,Yes
+62,Female,typical angina,140,268,No,normal,160,No,3.6,downsloping,2,normal blood flow,No
+59,Male,non-anginal pain,126,218,Yes,ST-T wave abnormality,134,No,2.2,flat,1,fixed defect,No
+55,Male,atypical angina,130,262,No,ST-T wave abnormality,155,No,0.0,upsloping,0,normal blood flow,Yes
+64,Male,typical angina,120,246,No,normal,96,Yes,2.2,downsloping,1,normal blood flow,No
+42,Male,typical angina,140,226,No,ST-T wave abnormality,178,No,0.0,upsloping,0,normal blood flow,Yes
+50,Female,atypical angina,120,244,No,ST-T wave abnormality,162,No,1.1,upsloping,0,normal blood flow,Yes
+62,Male,typical angina,120,267,No,ST-T wave abnormality,99,Yes,1.8,flat,2,reversible defect,No
+50,Male,typical angina,144,200,No,normal,126,Yes,0.9,flat,0,reversible defect,No
+50,Male,non-anginal pain,140,233,No,ST-T wave abnormality,163,No,0.6,flat,1,reversible defect,No
+58,Female,atypical angina,136,319,Yes,normal,152,No,0.0,upsloping,2,normal blood flow,No
+35,Male,typical angina,120,198,No,ST-T wave abnormality,130,Yes,1.6,flat,0,reversible defect,No
+45,Male,typical angina,104,208,No,normal,148,Yes,3.0,flat,0,normal blood flow,Yes
+66,Male,typical angina,112,212,No,normal,132,Yes,0.1,upsloping,1,normal blood flow,No
+46,Male,typical angina,120,249,No,normal,144,No,0.8,upsloping,0,reversible defect,No
+65,Male,typical angina,135,254,No,normal,127,No,2.8,flat,1,reversible defect,No
+47,Male,non-anginal pain,130,253,No,ST-T wave abnormality,179,No,0.0,upsloping,0,normal blood flow,Yes
+59,Male,asymptomic,134,204,No,ST-T wave abnormality,162,No,0.8,upsloping,2,normal blood flow,No
+38,Male,asymptomic,120,231,No,ST-T wave abnormality,182,Yes,3.8,flat,0,reversible defect,No
+39,Male,typical angina,118,219,No,ST-T wave abnormality,140,No,1.2,flat,0,reversible defect,No
+58,Male,typical angina,146,218,No,ST-T wave abnormality,105,No,2.0,flat,1,reversible defect,No
+44,Male,atypical angina,120,263,No,ST-T wave abnormality,173,No,0.0,upsloping,0,reversible defect,Yes
+54,Male,typical angina,140,239,No,ST-T wave abnormality,160,No,1.2,upsloping,0,normal blood flow,Yes
+61,Female,typical angina,130,330,No,normal,169,No,0.0,upsloping,0,normal blood flow,No
+57,Male,typical angina,130,131,No,ST-T wave abnormality,115,Yes,1.2,flat,1,reversible defect,No
+54,Male,typical angina,110,206,No,normal,108,Yes,0.0,flat,1,normal blood flow,No
+42,Male,non-anginal pain,120,240,Yes,ST-T wave abnormality,194,No,0.8,downsloping,0,reversible defect,Yes
+54,Male,typical angina,124,266,No,normal,109,Yes,2.2,flat,1,reversible defect,No
+60,Male,typical angina,130,206,No,normal,132,Yes,2.4,flat,2,reversible defect,No
+65,Male,typical angina,135,254,No,normal,127,No,2.8,flat,1,reversible defect,No
+40,Male,typical angina,152,223,No,ST-T wave abnormality,181,No,0.0,upsloping,0,reversible defect,No
+51,Female,non-anginal pain,140,308,No,normal,142,No,1.5,upsloping,1,normal blood flow,Yes
+38,Male,asymptomic,120,231,No,ST-T wave abnormality,182,Yes,3.8,flat,0,reversible defect,No
+42,Male,non-anginal pain,130,180,No,ST-T wave abnormality,150,No,0.0,upsloping,0,normal blood flow,Yes
+56,Male,atypical angina,120,240,No,ST-T wave abnormality,169,No,0.0,downsloping,0,normal blood flow,Yes
+43,Male,non-anginal pain,130,315,No,ST-T wave abnormality,162,No,1.9,upsloping,1,normal blood flow,Yes
+64,Male,non-anginal pain,140,335,No,ST-T wave abnormality,158,No,0.0,upsloping,0,normal blood flow,No
+53,Male,typical angina,142,226,No,normal,111,Yes,0.0,upsloping,0,reversible defect,Yes
+49,Female,atypical angina,134,271,No,ST-T wave abnormality,162,No,0.0,flat,0,normal blood flow,Yes
+57,Female,typical angina,140,241,No,ST-T wave abnormality,123,Yes,0.2,flat,0,reversible defect,No
+52,Female,non-anginal pain,136,196,No,normal,169,No,0.1,flat,0,normal blood flow,Yes
+69,Female,asymptomic,140,239,No,ST-T wave abnormality,151,No,1.8,upsloping,2,normal blood flow,Yes
+65,Male,typical angina,120,177,No,ST-T wave abnormality,140,No,0.4,upsloping,0,reversible defect,Yes
+66,Female,typical angina,178,228,Yes,ST-T wave abnormality,165,Yes,1.0,flat,2,reversible defect,No
+56,Male,asymptomic,120,193,No,normal,162,No,1.9,flat,0,reversible defect,Yes
+67,Female,non-anginal pain,152,277,No,ST-T wave abnormality,172,No,0.0,upsloping,1,normal blood flow,Yes
+54,Female,non-anginal pain,160,201,No,ST-T wave abnormality,163,No,0.0,upsloping,1,normal blood flow,Yes
+70,Male,typical angina,145,174,No,ST-T wave abnormality,125,Yes,2.6,downsloping,0,reversible defect,No
+57,Male,typical angina,132,207,No,ST-T wave abnormality,168,Yes,0.0,upsloping,0,reversible defect,Yes
+67,Male,typical angina,160,286,No,normal,108,Yes,1.5,flat,3,normal blood flow,No
+62,Female,non-anginal pain,130,263,No,ST-T wave abnormality,97,No,1.2,flat,1,reversible defect,No
+54,Female,non-anginal pain,135,304,Yes,ST-T wave abnormality,170,No,0.0,upsloping,0,normal blood flow,Yes
+45,Female,typical angina,138,236,No,normal,152,Yes,0.2,flat,0,normal blood flow,Yes
+53,Female,typical angina,130,264,No,normal,143,No,0.4,flat,0,normal blood flow,Yes
+62,Male,non-anginal pain,130,231,No,ST-T wave abnormality,146,No,1.8,flat,3,reversible defect,Yes
+49,Female,typical angina,130,269,No,ST-T wave abnormality,163,No,0.0,upsloping,0,normal blood flow,Yes
+50,Male,non-anginal pain,140,233,No,ST-T wave abnormality,163,No,0.6,flat,1,reversible defect,No
+65,Female,non-anginal pain,140,417,Yes,normal,157,No,0.8,upsloping,1,normal blood flow,Yes
+69,Female,asymptomic,140,239,No,ST-T wave abnormality,151,No,1.8,upsloping,2,normal blood flow,Yes
+52,Female,non-anginal pain,136,196,No,normal,169,No,0.1,flat,0,normal blood flow,Yes
+58,Female,typical angina,100,248,No,normal,122,No,1.0,flat,0,normal blood flow,Yes
+52,Male,typical angina,108,233,Yes,ST-T wave abnormality,147,No,0.1,upsloping,3,reversible defect,Yes
+57,Female,typical angina,140,241,No,ST-T wave abnormality,123,Yes,0.2,flat,0,reversible defect,No
+44,Female,non-anginal pain,108,141,No,ST-T wave abnormality,175,No,0.6,flat,0,normal blood flow,Yes
+76,Female,non-anginal pain,140,197,No,probable or definite left ventricular hypertrophy,116,No,1.1,flat,0,normal blood flow,Yes
+58,Male,typical angina,128,259,No,normal,130,Yes,3.0,flat,2,reversible defect,No
+60,Female,non-anginal pain,120,178,Yes,ST-T wave abnormality,96,No,0.0,upsloping,0,normal blood flow,Yes
+53,Male,typical angina,140,203,Yes,normal,155,Yes,3.1,downsloping,0,reversible defect,No
+52,Male,atypical angina,120,325,No,ST-T wave abnormality,172,No,0.2,upsloping,0,normal blood flow,Yes
+38,Male,non-anginal pain,138,175,No,ST-T wave abnormality,173,No,0.0,upsloping,4,normal blood flow,Yes
+52,Male,non-anginal pain,172,199,Yes,ST-T wave abnormality,162,No,0.5,upsloping,0,reversible defect,Yes
+52,Male,asymptomic,118,186,No,normal,190,No,0.0,flat,0,fixed defect,Yes
+51,Male,non-anginal pain,125,245,Yes,normal,166,No,2.4,flat,0,normal blood flow,Yes
+43,Male,typical angina,110,211,No,ST-T wave abnormality,161,No,0.0,upsloping,0,reversible defect,Yes
+39,Male,typical angina,118,219,No,ST-T wave abnormality,140,No,1.2,flat,0,reversible defect,No
+63,Female,typical angina,108,269,No,ST-T wave abnormality,169,Yes,1.8,flat,2,normal blood flow,No
+52,Male,atypical angina,128,205,Yes,ST-T wave abnormality,184,No,0.0,upsloping,0,normal blood flow,Yes
+44,Male,typical angina,110,197,No,normal,177,No,0.0,upsloping,1,normal blood flow,No
+45,Male,typical angina,142,309,No,normal,147,Yes,0.0,flat,3,reversible defect,No
+57,Male,typical angina,140,192,No,ST-T wave abnormality,148,No,0.4,flat,0,fixed defect,Yes
+39,Male,typical angina,118,219,No,ST-T wave abnormality,140,No,1.2,flat,0,reversible defect,No
+67,Female,typical angina,106,223,No,ST-T wave abnormality,142,No,0.3,upsloping,2,normal blood flow,Yes
+64,Male,typical angina,128,263,No,ST-T wave abnormality,105,Yes,0.2,flat,1,reversible defect,Yes
+59,Male,typical angina,135,234,No,ST-T wave abnormality,161,No,0.5,flat,0,reversible defect,Yes
+62,Male,non-anginal pain,130,231,No,ST-T wave abnormality,146,No,1.8,flat,3,reversible defect,Yes
+55,Female,typical angina,180,327,No,probable or definite left ventricular hypertrophy,117,Yes,3.4,flat,0,normal blood flow,No
+57,Male,atypical angina,154,232,No,normal,164,No,0.0,upsloping,1,normal blood flow,No
+60,Male,typical angina,140,293,No,normal,170,No,1.2,flat,2,reversible defect,No
+71,Female,atypical angina,160,302,No,ST-T wave abnormality,162,No,0.4,upsloping,2,normal blood flow,Yes
+56,Male,atypical angina,120,236,No,ST-T wave abnormality,178,No,0.8,upsloping,0,normal blood flow,Yes
+60,Male,typical angina,117,230,Yes,ST-T wave abnormality,160,Yes,1.4,upsloping,2,reversible defect,No
+50,Female,typical angina,110,254,No,normal,159,No,0.0,upsloping,0,normal blood flow,Yes
+43,Male,typical angina,132,247,Yes,normal,143,Yes,0.1,flat,4,reversible defect,No
+59,Male,typical angina,110,239,No,normal,142,Yes,1.2,flat,1,reversible defect,No
+44,Male,atypical angina,120,263,No,ST-T wave abnormality,173,No,0.0,upsloping,0,reversible defect,Yes
+56,Female,typical angina,134,409,No,normal,150,Yes,1.9,flat,2,reversible defect,No
+54,Male,typical angina,120,188,No,ST-T wave abnormality,113,No,1.4,flat,1,reversible defect,No
+42,Male,typical angina,136,315,No,ST-T wave abnormality,125,Yes,1.8,flat,0,fixed defect,No
+67,Male,typical angina,125,254,Yes,ST-T wave abnormality,163,No,0.2,flat,2,reversible defect,No
+64,Male,typical angina,145,212,No,normal,132,No,2.0,flat,2,fixed defect,No
+42,Male,typical angina,140,226,No,ST-T wave abnormality,178,No,0.0,upsloping,0,normal blood flow,Yes
+66,Male,typical angina,112,212,No,normal,132,Yes,0.1,upsloping,1,normal blood flow,No
+52,Male,typical angina,108,233,Yes,ST-T wave abnormality,147,No,0.1,upsloping,3,reversible defect,Yes
+51,Female,non-anginal pain,140,308,No,normal,142,No,1.5,upsloping,1,normal blood flow,Yes
+55,Female,typical angina,128,205,No,probable or definite left ventricular hypertrophy,130,Yes,2.0,flat,1,reversible defect,No
+58,Male,non-anginal pain,140,211,Yes,normal,165,No,0.0,upsloping,0,normal blood flow,Yes
+56,Male,asymptomic,120,193,No,normal,162,No,1.9,flat,0,reversible defect,Yes
+42,Male,atypical angina,120,295,No,ST-T wave abnormality,162,No,0.0,upsloping,0,normal blood flow,Yes
+40,Male,typical angina,152,223,No,ST-T wave abnormality,181,No,0.0,upsloping,0,reversible defect,No
+51,Male,typical angina,140,299,No,ST-T wave abnormality,173,Yes,1.6,upsloping,0,reversible defect,No
+45,Male,atypical angina,128,308,No,normal,170,No,0.0,upsloping,0,normal blood flow,Yes
+48,Male,atypical angina,110,229,No,ST-T wave abnormality,168,No,1.0,downsloping,0,reversible defect,No
+58,Male,typical angina,114,318,No,probable or definite left ventricular hypertrophy,140,No,4.4,downsloping,3,fixed defect,No
+44,Female,non-anginal pain,108,141,No,ST-T wave abnormality,175,No,0.6,flat,0,normal blood flow,Yes
+58,Male,typical angina,128,216,No,normal,131,Yes,2.2,flat,3,reversible defect,No
+65,Male,asymptomic,138,282,Yes,normal,174,No,1.4,flat,1,normal blood flow,No
+53,Male,typical angina,123,282,No,ST-T wave abnormality,95,Yes,2.0,flat,2,reversible defect,No
+41,Male,typical angina,110,172,No,normal,158,No,0.0,upsloping,0,reversible defect,No
+47,Male,typical angina,112,204,No,ST-T wave abnormality,143,No,0.1,upsloping,0,normal blood flow,Yes
+59,Male,atypical angina,140,221,No,ST-T wave abnormality,164,Yes,0.0,upsloping,0,normal blood flow,Yes
+60,Male,typical angina,125,258,No,normal,141,Yes,2.8,flat,1,reversible defect,No
+47,Male,typical angina,110,275,No,normal,118,Yes,1.0,flat,1,normal blood flow,No
+50,Female,typical angina,110,254,No,normal,159,No,0.0,upsloping,0,normal blood flow,Yes
+54,Male,typical angina,120,188,No,ST-T wave abnormality,113,No,1.4,flat,1,reversible defect,No
