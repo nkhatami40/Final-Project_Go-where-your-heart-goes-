@@ -13,3 +13,5 @@ The steps that have been taken in this project are as follows:
 5- Using food dataset to analyze different nutritions that are in various types of foods and distinguish which foods are not beneficial for patients with a heart disease.
 
 6- Using streamlit to show the results of the analysis as a food recommender application.
+
+Here is the link for the final project presentation in prezi: https://prezi.com/p/e5mg-v9326xq/?present=1
